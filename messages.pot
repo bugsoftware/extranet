@@ -1,0 +1,5034 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-23 13:25-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+#
+# File: accessdenied.php, line: 48
+# File: addnewhotelierextraservices.php, line: 354
+# File: monthlyoverview.php, line: 192
+# File: view_requests.php, line: 1486
+# File: viewgroupreservations-detailed.php, line: 2731
+# File: viewgroupreservations.php, line: 2483
+# File: viewreservations.php, line: 2308
+msgid "Total:"
+msgstr ""
+#
+# File: accessdenied.php, line: 52
+msgid "Access denied"
+msgstr ""
+#
+# File: accessdenied.php, line: 53
+msgid "Access denied - You are not authorized to access this page."
+msgstr ""
+#
+# File: accessdenied.php, line: 54
+# File: dashboard.php, line: 66
+msgid "This Dashboard contains all information of your property."
+msgstr ""
+#
+# File: accessdenied.php, line: 55
+# File: dashboard.php, line: 67
+msgid "If you want to change your property details go to:"
+msgstr ""
+#
+# File: accessdenied.php, line: 56
+# File: dashboard.php, line: 68
+msgid "Property Management."
+msgstr ""
+#
+# File: accessdenied.php, line: 57
+# File: dashboard.php, line: 69
+# File: pageeditor.php, line: 122
+msgid "General Information"
+msgstr ""
+#
+# File: accessdenied.php, line: 58
+# File: availabilityratespdf.php, line: 257
+# File: dashboard.php, line: 70
+# File: pricecomparison.php, line: 91
+# File: printinvoice.php, line: 885
+# File: specials.php, line: 503
+# File: viewbookings.php, line: 647
+# File: viewbookings.php, line: 655
+# File: viewgroupreservations-detailed.php, line: 3758
+# File: viewgroupreservations.php, line: 3527
+# File: viewrequests.php, line: 640
+# File: viewrequests.php, line: 648
+# File: viewreservations.php, line: 3256
+msgid "From"
+msgstr ""
+#
+# File: accessdenied.php, line: 59
+# File: dashboard.php, line: 71
+msgid "Hotel Name"
+msgstr ""
+#
+# File: accessdenied.php, line: 60
+# File: dashboard.php, line: 72
+msgid "Phone Number"
+msgstr ""
+#
+# File: accessdenied.php, line: 61
+# File: changehotelinfo.php, line: 95
+# File: dashboard.php, line: 73
+msgid "Address"
+msgstr ""
+#
+# File: accessdenied.php, line: 62
+# File: changehotelinfo.php, line: 111
+# File: dashboard.php, line: 74
+msgid "Fax"
+msgstr ""
+#
+# File: accessdenied.php, line: 63
+# File: changehotelinfo.php, line: 93
+# File: dashboard.php, line: 75
+msgid "City"
+msgstr ""
+#
+# File: accessdenied.php, line: 64
+# File: changehotelinfo.php, line: 96
+# File: dashboard.php, line: 76
+msgid "Zip Code"
+msgstr ""
+#
+# File: accessdenied.php, line: 65
+# File: dashboard.php, line: 77
+msgid "Website of the Hotel"
+msgstr ""
+#
+# File: accessdenied.php, line: 66
+# File: changehotelinfo.php, line: 91
+# File: dashboard.php, line: 78
+msgid "Country"
+msgstr ""
+#
+# File: accessdenied.php, line: 67
+# File: changehotelinfo.php, line: 108
+# File: dashboard.php, line: 79
+# File: viewgroupreservations-detailed.php, line: 3770
+# File: viewgroupreservations.php, line: 3540
+msgid "Email"
+msgstr ""
+#
+# File: accessdenied.php, line: 68
+# File: addnewhotelierextraservices.php, line: 370
+# File: addnewhotelierextraservices.php, line: 379
+# File: addnewunit.php, line: 1246
+# File: availabilityrates.php, line: 975
+# File: commissionsettings.php, line: 88
+# File: createratecodes.php, line: 170
+# File: createratecodesrules.php, line: 305
+# File: dashboard.php, line: 80
+# File: extranetimg.php, line: 88
+# File: guestreviews.php, line: 67
+# File: header.php, line: 5
+# File: leftframe.php, line: 69
+# File: leftframe.php, line: 92
+# File: listunits.php, line: 281
+# File: maintainbydates.php, line: 4424
+# File: maintainbydates.php, line: 4446
+# File: maintainbymonth.php, line: 380
+# File: maintainbymonth.php, line: 403
+# File: monthlyoverview.php, line: 182
+# File: openclosedates.php, line: 244
+# File: pageeditor.php, line: 174
+# File: pricecomparison.php, line: 89
+# File: ratecodes.php, line: 205
+# File: ratecodesrules.php, line: 253
+# File: specials.php, line: 511
+# File: statistics.php, line: 183
+# File: termsconditions.php, line: 89
+# File: view_invoice.php, line: 67
+# File: viewbookings.php, line: 612
+# File: viewbookings.php, line: 657
+# File: viewgroupreservations-detailed.php, line: 3768
+# File: viewgroupreservations.php, line: 3538
+# File: viewprintinvoices.php, line: 89
+# File: viewrequests.php, line: 606
+# File: viewrequests.php, line: 650
+# File: viewreservations.php, line: 3266
+msgid "Dashboard"
+msgstr ""
+#
+# File: accessdenied.php, line: 78
+# File: addnewhotelierextraservices.php, line: 375
+# File: addnewhotelierextraservices.php, line: 384
+# File: addnewunit.php, line: 851
+# File: addnewunit.php, line: 1259
+# File: changehotelinfo.php, line: 590
+# File: commissionsettings.php, line: 187
+# File: createratecodes.php, line: 164
+# File: createratecodes.php, line: 191
+# File: createratecodesrules.php, line: 315
+# File: createspecial.php, line: 655
+# File: dashboard.php, line: 118
+# File: extranetimg.php, line: 1084
+# File: guestreviews.php, line: 90
+# File: header.php, line: 7
+# File: leftframe.php, line: 108
+# File: listunits.php, line: 310
+# File: login.php, line: 574
+# File: maintainbydates.php, line: 4475
+# File: maintainbymonth.php, line: 427
+# File: map.php, line: 235
+# File: monthlyoverview.php, line: 200
+# File: monthlyoverview.php, line: 250
+# File: openclosedates.php, line: 258
+# File: pageeditor.php, line: 205
+# File: pricecomparison.php, line: 123
+# File: ratecodes.php, line: 219
+# File: ratecodesrules.php, line: 266
+# File: reservationsettings.php, line: 411
+# File: specials.php, line: 528
+# File: statistics.php, line: 204
+# File: termsconditions.php, line: 116
+# File: top.php, line: 481
+# File: view_invoice.php, line: 91
+# File: viewbookings.php, line: 693
+# File: viewgroupreservations-detailed.php, line: 3781
+# File: viewgroupreservations.php, line: 3545
+# File: viewprintinvoices.php, line: 246
+# File: viewrequests.php, line: 686
+# File: viewreservations.php, line: 3271
+msgid "Please wait..."
+msgstr ""
+#
+# File: accessdenied.php, line: 79
+# File: addnewhotelierextraservices.php, line: 376
+# File: addnewhotelierextraservices.php, line: 385
+# File: addnewunit.php, line: 1260
+# File: availabilityrates.php, line: 979
+# File: changehotelinfo.php, line: 591
+# File: commissionsettings.php, line: 188
+# File: createratecodes.php, line: 165
+# File: createratecodes.php, line: 192
+# File: createratecodesrules.php, line: 317
+# File: createspecial.php, line: 656
+# File: dashboard.php, line: 119
+# File: extranetimg.php, line: 1100
+# File: guestreviews.php, line: 91
+# File: leftframe.php, line: 109
+# File: listunits.php, line: 311
+# File: maintainbydates.php, line: 4476
+# File: maintainbymonth.php, line: 428
+# File: map.php, line: 236
+# File: monthlyoverview.php, line: 201
+# File: monthlyoverview.php, line: 251
+# File: openclosedates.php, line: 259
+# File: pageeditor.php, line: 206
+# File: pricecomparison.php, line: 124
+# File: ratecodes.php, line: 220
+# File: ratecodesrules.php, line: 267
+# File: reservationsettings.php, line: 412
+# File: specials.php, line: 532
+# File: statistics.php, line: 205
+# File: termsconditions.php, line: 117
+# File: top.php, line: 482
+# File: view_invoice.php, line: 92
+# File: viewbookings.php, line: 694
+# File: viewgroupreservations-detailed.php, line: 3782
+# File: viewgroupreservations.php, line: 3546
+# File: viewprintinvoices.php, line: 106
+# File: viewprintinvoices.php, line: 247
+# File: viewrequests.php, line: 687
+# File: viewreservations.php, line: 3272
+msgid "Options"
+msgstr ""
+#
+# File: acl_createuser.php, line: 140
+# File: header.php, line: 10
+msgid "My Account"
+msgstr ""
+#
+# File: acl_createuser.php, line: 141
+msgid "Username:"
+msgstr ""
+#
+# File: acl_createuser.php, line: 142
+# File: login.php, line: 569
+msgid "Password:"
+msgstr ""
+#
+# File: acl_createuser.php, line: 143
+# File: addnewguest_reservation.php, line: 157
+# File: addnewproperty.php, line: 235
+# File: changehotelinfo.php, line: 320
+# File: printinvoice.php, line: 1376
+msgid "Email:"
+msgstr ""
+#
+# File: acl_createuser.php, line: 144
+# File: addnewproperty.php, line: 233
+# File: changehotelinfo.php, line: 318
+# File: printinvoice.php, line: 1374
+msgid "Phone:"
+msgstr ""
+#
+# File: acl_createuser.php, line: 145
+# File: addnewproperty.php, line: 234
+# File: changehotelinfo.php, line: 319
+# File: printinvoice.php, line: 1375
+msgid "Fax:"
+msgstr ""
+#
+# File: acl_createuser.php, line: 146
+# File: addnewguest_reservation.php, line: 153
+msgid "First name:"
+msgstr ""
+#
+# File: acl_createuser.php, line: 147
+# File: addnewguest_reservation.php, line: 154
+msgid "Last name:"
+msgstr ""
+#
+# File: acl_createuser.php, line: 148
+# File: addnewguest_reservation.php, line: 155
+msgid "Company:"
+msgstr ""
+#
+# File: acl_createuser.php, line: 149
+# File: addnewunit.php, line: 843
+# File: availabilityrates.php, line: 910
+# File: changehotelinfo.php, line: 282
+# File: createratecodes.php, line: 171
+# File: createratecodesrules.php, line: 224
+# File: createspecial.php, line: 640
+# File: header.php, line: 9
+# File: listunits.php, line: 280
+# File: pageeditor.php, line: 170
+# File: printinvoice.php, line: 1055
+# File: printreservation.php, line: 960
+# File: reservationsettings.php, line: 210
+# File: view_requests.php, line: 1290
+# File: viewbookings.php, line: 639
+# File: viewgroupreservations-detailed.php, line: 3009
+# File: viewgroupreservations.php, line: 2756
+# File: viewrequests.php, line: 632
+# File: viewreservations.php, line: 2548
+msgid "Help"
+msgstr ""
+#
+# File: acl_createuser.php, line: 150
+# File: addnewhotelierextraservices.php, line: 363
+# File: addnewproperty.php, line: 224
+# File: addnewunit.php, line: 844
+# File: changehotelinfo.php, line: 309
+# File: createratecodes.php, line: 172
+# File: createratecodesrules.php, line: 225
+# File: createspecial.php, line: 437
+# File: createspecial.php, line: 641
+# File: extranetimg.php, line: 1089
+# File: index.php, line: 120
+# File: login.php, line: 572
+# File: map.php, line: 160
+# File: pageeditor.php, line: 171
+# File: ratecodes.php, line: 185
+# File: ratecodesrules.php, line: 225
+# File: reservationsettings.php, line: 211
+# File: specials.php, line: 273
+# File: specials.php, line: 476
+# File: top.php, line: 425
+# File: viewbookings.php, line: 617
+# File: viewrequests.php, line: 610
+msgid "Reset"
+msgstr ""
+#
+# File: acl_createuser.php, line: 151
+# File: addnewguest_reservation.php, line: 160
+# File: addnewhotelierextraservices.php, line: 364
+# File: addnewproperty.php, line: 225
+# File: addnewunit.php, line: 845
+# File: changehotelinfo.php, line: 310
+# File: createratecodes.php, line: 173
+# File: createratecodesrules.php, line: 226
+# File: createspecial.php, line: 438
+# File: createspecial.php, line: 642
+# File: extranetimg.php, line: 1087
+# File: index.php, line: 119
+# File: login.php, line: 571
+# File: map.php, line: 161
+# File: monthlyoverview.php, line: 199
+# File: pageeditor.php, line: 172
+# File: pageeditor.php, line: 173
+# File: ratecodes.php, line: 186
+# File: ratecodesrules.php, line: 226
+# File: reservationsettings.php, line: 212
+# File: specials.php, line: 276
+# File: specials.php, line: 477
+# File: top.php, line: 424
+msgid "Submit"
+msgstr ""
+#
+# File: acl_createuser.php, line: 158
+# File: header.php, line: 4
+msgid "Administration"
+msgstr ""
+#
+# File: acl_createuser.php, line: 170
+# File: login.php, line: 575
+msgid "Password is required"
+msgstr ""
+#
+# File: addnewguest_reservation.php, line: 152
+msgid "Guest Name"
+msgstr ""
+#
+# File: addnewguest_reservation.php, line: 156
+msgid "Age:"
+msgstr ""
+#
+# File: addnewguest_reservation.php, line: 158
+msgid "Title:"
+msgstr ""
+#
+# File: addnewguest_reservation.php, line: 159
+# File: addnewhotelierextraservices.php, line: 373
+# File: addnewhotelierextraservices.php, line: 382
+# File: availabilityrates.php, line: 978
+# File: listunits.php, line: 286
+# File: ratecodes.php, line: 189
+# File: ratecodesrules.php, line: 231
+# File: specials.php, line: 530
+# File: viewbookings.php, line: 671
+# File: viewgroupreservations-detailed.php, line: 3777
+# File: viewgroupreservations.php, line: 3543
+# File: viewprintinvoices.php, line: 109
+# File: viewrequests.php, line: 664
+# File: viewreservations.php, line: 3269
+msgid "Cancel"
+msgstr ""
+#
+# File: addnewguest_reservation.php, line: 173
+msgid "Mr"
+msgstr ""
+#
+# File: addnewguest_reservation.php, line: 174
+msgid "Mrs"
+msgstr ""
+#
+# File: addnewguest_reservation.php, line: 175
+msgid "Ms"
+msgstr ""
+#
+# File: addnewguest_reservation.php, line: 176
+msgid "Miss"
+msgstr ""
+#
+# File: addnewguest_reservation.php, line: 177
+msgid "Master"
+msgstr ""
+#
+# File: addnewguest_reservation.php, line: 178
+msgid "Dr"
+msgstr ""
+#
+# File: addnewguest_reservation.php, line: 179
+msgid "Lord"
+msgstr ""
+#
+# File: addnewguest_reservation.php, line: 180
+msgid "Lady"
+msgstr ""
+#
+# File: addnewguest_reservation.php, line: 181
+msgid "Inf"
+msgstr ""
+#
+# File: addnewguest_reservation.php, line: 182
+msgid "Rev"
+msgstr ""
+#
+# File: addnewguest_reservation.php, line: 183
+msgid "Child"
+msgstr ""
+#
+# File: addnewhotelierextraservices.php, line: 310
+# File: viewgroupreservations-detailed.php, line: 3710
+# File: viewgroupreservations.php, line: 3489
+# File: viewreservations.php, line: 3233
+msgid "Add New Extra Service"
+msgstr ""
+#
+# File: addnewhotelierextraservices.php, line: 355
+# File: maintainbydates.php, line: 4449
+# File: maintainbymonth.php, line: 389
+# File: maintainbymonth.php, line: 406
+# File: printinvoice.php, line: 888
+# File: printinvoice.php, line: 1073
+# File: printreservation.php, line: 976
+# File: viewgroupreservations-detailed.php, line: 3783
+# File: viewgroupreservations.php, line: 3547
+# File: viewreservations.php, line: 3273
+msgid "Price"
+msgstr ""
+#
+# File: addnewhotelierextraservices.php, line: 356
+# File: printinvoice.php, line: 1097
+# File: printreservation.php, line: 1000
+# File: view_requests.php, line: 1327
+# File: viewgroupreservations-detailed.php, line: 3047
+# File: viewgroupreservations.php, line: 2795
+# File: viewreservations.php, line: 2586
+msgid "Qty"
+msgstr ""
+#
+# File: addnewhotelierextraservices.php, line: 357
+msgid "Payment Details"
+msgstr ""
+#
+# File: addnewhotelierextraservices.php, line: 358
+# File: printinvoice.php, line: 1007
+# File: printreservation.php, line: 907
+# File: view_requests.php, line: 1788
+# File: viewgroupreservations-detailed.php, line: 3702
+# File: viewgroupreservations.php, line: 3481
+# File: viewreservations.php, line: 3226
+msgid "Extra Services"
+msgstr ""
+#
+# File: addnewhotelierextraservices.php, line: 359
+# File: printinvoice.php, line: 884
+# File: printinvoice.php, line: 1075
+# File: printreservation.php, line: 978
+# File: viewgroupreservations-detailed.php, line: 3756
+# File: viewgroupreservations.php, line: 3525
+# File: viewreservations.php, line: 3254
+msgid "Extra Service"
+msgstr ""
+#
+# File: addnewhotelierextraservices.php, line: 360
+msgid "Totals"
+msgstr ""
+#
+# File: addnewhotelierextraservices.php, line: 361
+msgid "Arrival:"
+msgstr ""
+#
+# File: addnewhotelierextraservices.php, line: 362
+msgid "Departure:"
+msgstr ""
+#
+# File: addnewhotelierextraservices.php, line: 365
+# File: reservationsettings.php, line: 215
+msgid "Tax:"
+msgstr ""
+#
+# File: addnewhotelierextraservices.php, line: 366
+msgid "Sort by Tax"
+msgstr ""
+#
+# File: addnewhotelierextraservices.php, line: 367
+# File: pricecomparison.php, line: 105
+# File: printinvoice.php, line: 1106
+# File: printreservation.php, line: 1009
+# File: view_requests.php, line: 1336
+# File: viewgroupreservations-detailed.php, line: 3059
+# File: viewgroupreservations.php, line: 2807
+# File: viewreservations.php, line: 2595
+msgid "Tax"
+msgstr ""
+#
+# File: addnewhotelierextraservices.php, line: 368
+msgid "Taxes:"
+msgstr ""
+#
+# File: addnewhotelierextraservices.php, line: 369
+msgid "Sub Total:"
+msgstr ""
+#
+# File: addnewhotelierextraservices.php, line: 371
+# File: addnewhotelierextraservices.php, line: 380
+# File: addnewunit.php, line: 861
+# File: availabilityrates.php, line: 977
+# File: createspecial.php, line: 436
+# File: createspecial.php, line: 643
+# File: listunits.php, line: 284
+# File: ratecodes.php, line: 188
+# File: ratecodesrules.php, line: 230
+# File: specials.php, line: 275
+# File: viewbookings.php, line: 670
+# File: viewgroupreservations-detailed.php, line: 3769
+# File: viewgroupreservations.php, line: 3539
+# File: viewprintinvoices.php, line: 108
+# File: viewrequests.php, line: 663
+# File: viewreservations.php, line: 3267
+msgid "Delete"
+msgstr ""
+#
+# File: addnewhotelierextraservices.php, line: 372
+# File: addnewhotelierextraservices.php, line: 381
+# File: listunits.php, line: 285
+# File: monthlyoverview.php, line: 202
+# File: specials.php, line: 274
+# File: viewbookings.php, line: 669
+# File: viewgroupreservations-detailed.php, line: 3771
+# File: viewgroupreservations.php, line: 3541
+# File: viewprintinvoices.php, line: 107
+# File: viewrequests.php, line: 662
+# File: viewreservations.php, line: 3268
+msgid "Edit"
+msgstr ""
+#
+# File: addnewhotelierextraservices.php, line: 374
+# File: addnewhotelierextraservices.php, line: 383
+# File: availabilityrates.php, line: 903
+# File: availabilityrates.php, line: 976
+# File: listunits.php, line: 272
+# File: listunits.php, line: 283
+# File: ratecodes.php, line: 192
+# File: ratecodes.php, line: 207
+# File: ratecodesrules.php, line: 228
+# File: ratecodesrules.php, line: 254
+# File: specials.php, line: 277
+# File: specials.php, line: 479
+# File: specials.php, line: 531
+# File: viewbookings.php, line: 640
+# File: viewgroupreservations-detailed.php, line: 3778
+# File: viewgroupreservations.php, line: 3544
+# File: viewgroupreservations.php, line: 3575
+# File: viewrequests.php, line: 633
+# File: viewreservations.php, line: 3270
+msgid "Delete selected"
+msgstr ""
+#
+# File: addnewhotelierextraservices.php, line: 377
+msgid "Dynamic Packaging"
+msgstr ""
+#
+# File: addnewhotelierextraservices.php, line: 378
+# File: ratecodes.php, line: 190
+# File: ratecodesrules.php, line: 232
+msgid "Add New"
+msgstr ""
+#
+# File: addnewhotelierextraservices.php, line: 386
+# File: viewgroupreservations-detailed.php, line: 3788
+# File: viewgroupreservations.php, line: 3551
+# File: viewreservations.php, line: 3277
+msgid "Hotelier Manager"
+msgstr ""
+#
+# File: addnewhotelierextraservices.php, line: 387
+# File: viewgroupreservations-detailed.php, line: 3789
+# File: viewgroupreservations.php, line: 3552
+# File: viewreservations.php, line: 3278
+msgid "Update Selected"
+msgstr ""
+#
+# File: addnewhotelierextraservices.php, line: 388
+msgid "Supplier"
+msgstr ""
+#
+# File: addnewproperty.php, line: 51
+# File: login.php, line: 505
+msgid "Invalid CAPTCHA (Word in image)"
+msgstr ""
+#
+# File: addnewproperty.php, line: 52
+msgid "The CAPTCHA (Word in image) was not entered correctly."
+msgstr ""
+#
+# File: addnewproperty.php, line: 116
+msgid "Single room/1 person(s)"
+msgstr ""
+#
+# File: addnewproperty.php, line: 126
+msgid "Double room/2 person(s)"
+msgstr ""
+#
+# File: addnewproperty.php, line: 136
+msgid "Triple room/3 person(s)"
+msgstr ""
+#
+# File: addnewproperty.php, line: 142
+msgid "Thank you"
+msgstr ""
+#
+# File: addnewproperty.php, line: 143
+msgid "Thank you. We will get in touch with you."
+msgstr ""
+#
+# File: addnewproperty.php, line: 213
+msgid "Reserved Type"
+msgstr ""
+#
+# File: addnewproperty.php, line: 218
+# File: login.php, line: 595
+msgid "Word in Image:"
+msgstr ""
+#
+# File: addnewproperty.php, line: 219
+# File: login.php, line: 596
+msgid "Word in image:"
+msgstr ""
+#
+# File: addnewproperty.php, line: 223
+msgid "Add New Property"
+msgstr ""
+#
+# File: addnewproperty.php, line: 226
+# File: changehotelinfo.php, line: 311
+msgid "Type of Property:"
+msgstr ""
+#
+# File: addnewproperty.php, line: 227
+# File: changehotelinfo.php, line: 312
+msgid "Name of Property:"
+msgstr ""
+#
+# File: addnewproperty.php, line: 228
+# File: changehotelinfo.php, line: 313
+msgid "Country:"
+msgstr ""
+#
+# File: addnewproperty.php, line: 229
+# File: changehotelinfo.php, line: 314
+msgid "State/Region/Zone:"
+msgstr ""
+#
+# File: addnewproperty.php, line: 230
+# File: changehotelinfo.php, line: 315
+# File: map.php, line: 159
+# File: reservationsettings.php, line: 208
+msgid "Basic Information"
+msgstr ""
+#
+# File: addnewproperty.php, line: 231
+# File: changehotelinfo.php, line: 316
+msgid "Address 1:"
+msgstr ""
+#
+# File: addnewproperty.php, line: 232
+# File: changehotelinfo.php, line: 317
+msgid "Address 2:"
+msgstr ""
+#
+# File: addnewproperty.php, line: 236
+# File: changehotelinfo.php, line: 322
+msgid "Homepage:"
+msgstr ""
+#
+# File: addnewproperty.php, line: 237
+# File: changehotelinfo.php, line: 324
+msgid "ZIP Code/Postal Code:"
+msgstr ""
+#
+# File: addnewproperty.php, line: 238
+# File: changehotelinfo.php, line: 325
+msgid "City:"
+msgstr ""
+#
+# File: addnewproperty.php, line: 239
+# File: changehotelinfo.php, line: 327
+msgid "Class:"
+msgstr ""
+#
+# File: addnewproperty.php, line: 240
+msgid "Property Name is required!"
+msgstr ""
+#
+# File: addnewproperty.php, line: 241
+msgid "ZIP Code/Postal Code is required!"
+msgstr ""
+#
+# File: addnewproperty.php, line: 242
+msgid "Address 1 is required!"
+msgstr ""
+#
+# File: addnewproperty.php, line: 243
+msgid "Phone is required!"
+msgstr ""
+#
+# File: addnewproperty.php, line: 244
+msgid "Email is required!"
+msgstr ""
+#
+# File: addnewproperty.php, line: 249
+# File: addnewproperty.php, line: 277
+# File: addnewproperty.php, line: 281
+# File: addnewproperty.php, line: 285
+# File: addnewproperty.php, line: 336
+# File: addnewproperty.php, line: 340
+# File: addnewproperty.php, line: 344
+# File: addnewproperty.php, line: 354
+# File: changehotelinfo.php, line: 332
+# File: changehotelinfo.php, line: 346
+# File: changehotelinfo.php, line: 350
+# File: changehotelinfo.php, line: 354
+# File: changehotelinfo.php, line: 375
+# File: changehotelinfo.php, line: 379
+# File: changehotelinfo.php, line: 383
+# File: changehotelinfo.php, line: 392
+# File: changehotelinfo.php, line: 488
+# File: listunits.php, line: 206
+# File: listunits.php, line: 220
+# File: listunits.php, line: 234
+# File: viewgroupreservations-detailed.php, line: 2665
+# File: viewgroupreservations.php, line: 2397
+# File: viewgroupreservations.php, line: 2453
+msgid "None"
+msgstr ""
+#
+# File: addnewproperty.php, line: 348
+# File: changehotelinfo.php, line: 259
+msgid "Area:"
+msgstr ""
+#
+# File: addnewunit.php, line: 95
+# File: addnewunit.php, line: 97
+# File: addnewunit.php, line: 109
+# File: addnewunit.php, line: 111
+# File: listunits.php, line: 99
+# File: listunits.php, line: 101
+# File: listunits.php, line: 113
+# File: listunits.php, line: 115
+msgid "You are not allowed to delete unit"
+msgstr ""
+#
+# File: addnewunit.php, line: 95
+# File: addnewunit.php, line: 97
+# File: listunits.php, line: 99
+# File: listunits.php, line: 101
+msgid "This unit has availability. You first need to delete the availability."
+msgstr ""
+#
+# File: addnewunit.php, line: 109
+# File: listunits.php, line: 113
+msgid "This unit has reservations. You first need to delete the reservation(s)."
+msgstr ""
+#
+# File: addnewunit.php, line: 111
+# File: listunits.php, line: 115
+msgid "This unit has reservation(s). You first need to delete the reservation(s)."
+msgstr ""
+#
+# File: addnewunit.php, line: 817
+msgid "Room code is usually used together with GDS/ADS reservations to syncronize inventory/availability and pricing"
+msgstr ""
+#
+# File: addnewunit.php, line: 818
+# File: createspecial.php, line: 627
+# File: extranetimg.php, line: 966
+msgid "Set picture to none and delete picture from system"
+msgstr ""
+#
+# File: addnewunit.php, line: 819
+msgid "Long Description:"
+msgstr ""
+#
+# File: addnewunit.php, line: 820
+msgid "Child Policy Information:"
+msgstr ""
+#
+# File: addnewunit.php, line: 821
+# File: specials.php, line: 293
+msgid "Type:"
+msgstr ""
+#
+# File: addnewunit.php, line: 822
+msgid "Meals/Board type:"
+msgstr ""
+#
+# File: addnewunit.php, line: 823
+msgid "View:"
+msgstr ""
+#
+# File: addnewunit.php, line: 824
+msgid "Facilities Description:"
+msgstr ""
+#
+# File: addnewunit.php, line: 825
+msgid "Add New Room Type/Unit"
+msgstr ""
+#
+# File: addnewunit.php, line: 826
+# File: createratecodes.php, line: 167
+# File: createspecial.php, line: 637
+msgid "Description:"
+msgstr ""
+#
+# File: addnewunit.php, line: 827
+msgid "Sort Order:"
+msgstr ""
+#
+# File: addnewunit.php, line: 828
+msgid "Max Children:"
+msgstr ""
+#
+# File: addnewunit.php, line: 829
+msgid "Maximum number of childrens this room will hold"
+msgstr ""
+#
+# File: addnewunit.php, line: 830
+msgid "Maximum number of adults this room will hold"
+msgstr ""
+#
+# File: addnewunit.php, line: 831
+msgid "Max Adult:"
+msgstr ""
+#
+# File: addnewunit.php, line: 832
+# File: createspecial.php, line: 638
+msgid "Image 1:"
+msgstr ""
+#
+# File: addnewunit.php, line: 833
+# File: createspecial.php, line: 639
+msgid "Image 2:"
+msgstr ""
+#
+# File: addnewunit.php, line: 834
+msgid "Image 3:"
+msgstr ""
+#
+# File: addnewunit.php, line: 835
+msgid "Image 4:"
+msgstr ""
+#
+# File: addnewunit.php, line: 836
+msgid "Image 5:"
+msgstr ""
+#
+# File: addnewunit.php, line: 837
+msgid "Image 6:"
+msgstr ""
+#
+# File: addnewunit.php, line: 838
+msgid "Image 7:"
+msgstr ""
+#
+# File: addnewunit.php, line: 839
+msgid "Image 8:"
+msgstr ""
+#
+# File: addnewunit.php, line: 840
+msgid "Number of rooms of this type available on the property"
+msgstr ""
+#
+# File: addnewunit.php, line: 841
+msgid "# Rooms on Prop:"
+msgstr ""
+#
+# File: addnewunit.php, line: 842
+# File: createratecodes.php, line: 169
+# File: createratecodesrules.php, line: 221
+# File: createspecial.php, line: 633
+# File: viewbookings.php, line: 618
+# File: viewrequests.php, line: 611
+msgid "Status:"
+msgstr ""
+#
+# File: addnewunit.php, line: 846
+msgid "Description is required"
+msgstr ""
+#
+# File: addnewunit.php, line: 847
+msgid "Sort Order is required"
+msgstr ""
+#
+# File: addnewunit.php, line: 848
+msgid "Max Adults is required"
+msgstr ""
+#
+# File: addnewunit.php, line: 849
+msgid "Max Children is required"
+msgstr ""
+#
+# File: addnewunit.php, line: 850
+msgid "Rooms in Property are required"
+msgstr ""
+#
+# File: addnewunit.php, line: 862
+msgid "Are you sure you want to delete this Room Type/Unit?"
+msgstr ""
+#
+# File: addnewunit.php, line: 1030
+msgid "Enabled"
+msgstr ""
+#
+# File: addnewunit.php, line: 1031
+msgid "Disabled"
+msgstr ""
+#
+# File: addnewunit.php, line: 1083
+msgid "Active"
+msgstr ""
+#
+# File: addnewunit.php, line: 1084
+msgid "Inactive"
+msgstr ""
+#
+# File: addnewunit.php, line: 1163
+# File: addnewunit.php, line: 1180
+# File: addnewunit.php, line: 1197
+msgid "Please select (If any)"
+msgstr ""
+#
+# File: addnewunit.php, line: 1229
+# File: extranetimg.php, line: 1088
+msgid "Image"
+msgstr ""
+#
+# File: addnewunit.php, line: 1230
+msgid "Amenities"
+msgstr ""
+#
+# File: addnewunit.php, line: 1231
+msgid "No specific view"
+msgstr ""
+#
+# File: addnewunit.php, line: 1232
+msgid "Bay view"
+msgstr ""
+#
+# File: addnewunit.php, line: 1233
+msgid "Beach front"
+msgstr ""
+#
+# File: addnewunit.php, line: 1234
+msgid "City view"
+msgstr ""
+#
+# File: addnewunit.php, line: 1235
+msgid "Courtyard view"
+msgstr ""
+#
+# File: addnewunit.php, line: 1236
+msgid "Garden view"
+msgstr ""
+#
+# File: addnewunit.php, line: 1237
+msgid "Golf course view"
+msgstr ""
+#
+# File: addnewunit.php, line: 1238
+msgid "Harbor view"
+msgstr ""
+#
+# File: addnewunit.php, line: 1239
+msgid "Lake view"
+msgstr ""
+#
+# File: addnewunit.php, line: 1240
+msgid "Mountain view"
+msgstr ""
+#
+# File: addnewunit.php, line: 1241
+msgid "Ocean front"
+msgstr ""
+#
+# File: addnewunit.php, line: 1242
+msgid "Park view"
+msgstr ""
+#
+# File: addnewunit.php, line: 1243
+msgid "Pool view"
+msgstr ""
+#
+# File: addnewunit.php, line: 1244
+msgid "River view"
+msgstr ""
+#
+# File: addnewunit.php, line: 1245
+msgid "Sea view"
+msgstr ""
+#
+# File: addnewunit.php, line: 1247
+# File: extranetimg.php, line: 1086
+msgid "Image Description/Caption"
+msgstr ""
+#
+# File: areas.php, line: 54
+# File: changehotelinfo.php, line: 112
+# File: cities.php, line: 47
+# File: extranetimg.php, line: 98
+# File: specials.php, line: 298
+# File: viewbookings.php, line: 629
+# File: viewrequests.php, line: 622
+# File: zones.php, line: 40
+msgid "All"
+msgstr ""
+#
+# File: availabilityrates.php, line: 120
+# File: availabilityrates.php, line: 164
+# File: availabilityrates.php, line: 227
+# File: availabilityrates.php, line: 272
+# File: maintainbydates.php, line: 2061
+msgid "Unable to delete availability, there are reservations made for this block."
+msgstr ""
+#
+# File: availabilityrates.php, line: 122
+# File: availabilityrates.php, line: 166
+# File: availabilityrates.php, line: 229
+# File: availabilityrates.php, line: 274
+# File: maintainbydates.php, line: 2063
+msgid "Availability #"
+msgstr ""
+#
+# File: availabilityrates.php, line: 708
+# File: hotelier_getavextraservices.php, line: 175
+msgid "Person(s):"
+msgstr ""
+#
+# File: availabilityrates.php, line: 884
+msgid "Sort by Date from"
+msgstr ""
+#
+# File: availabilityrates.php, line: 885
+msgid "Sort by Date to"
+msgstr ""
+#
+# File: availabilityrates.php, line: 886
+msgid "Date from"
+msgstr ""
+#
+# File: availabilityrates.php, line: 887
+msgid "Date to"
+msgstr ""
+#
+# File: availabilityrates.php, line: 888
+# File: availabilityratespdf.php, line: 259
+msgid "Mon"
+msgstr ""
+#
+# File: availabilityrates.php, line: 889
+# File: availabilityratespdf.php, line: 260
+msgid "Tue"
+msgstr ""
+#
+# File: availabilityrates.php, line: 890
+# File: availabilityratespdf.php, line: 261
+msgid "Wed"
+msgstr ""
+#
+# File: availabilityrates.php, line: 891
+# File: availabilityratespdf.php, line: 262
+msgid "Thu"
+msgstr ""
+#
+# File: availabilityrates.php, line: 892
+# File: availabilityratespdf.php, line: 263
+msgid "Fri"
+msgstr ""
+#
+# File: availabilityrates.php, line: 893
+# File: availabilityratespdf.php, line: 264
+msgid "Sat"
+msgstr ""
+#
+# File: availabilityrates.php, line: 894
+# File: availabilityratespdf.php, line: 265
+msgid "Sun"
+msgstr ""
+#
+# File: availabilityrates.php, line: 895
+msgid "Sort by Monday"
+msgstr ""
+#
+# File: availabilityrates.php, line: 896
+msgid "Sort by Tuesday"
+msgstr ""
+#
+# File: availabilityrates.php, line: 897
+msgid "Sort by Wednesday"
+msgstr ""
+#
+# File: availabilityrates.php, line: 898
+msgid "Sort by Thursday"
+msgstr ""
+#
+# File: availabilityrates.php, line: 899
+msgid "Sort by Friday"
+msgstr ""
+#
+# File: availabilityrates.php, line: 900
+msgid "Sort by Saturday"
+msgstr ""
+#
+# File: availabilityrates.php, line: 901
+msgid "Sort by Sunday"
+msgstr ""
+#
+# File: availabilityrates.php, line: 902
+# File: availabilityratespdf.php, line: 205
+# File: availabilityratespdf.php, line: 413
+msgid "Availability Rates"
+msgstr ""
+#
+# File: availabilityrates.php, line: 904
+msgid "Rates"
+msgstr ""
+#
+# File: availabilityrates.php, line: 905
+# File: listunits.php, line: 275
+msgid "Sort by View"
+msgstr ""
+#
+# File: availabilityrates.php, line: 906
+# File: listunits.php, line: 276
+msgid "View"
+msgstr ""
+#
+# File: availabilityrates.php, line: 907
+# File: listunits.php, line: 277
+# File: pricecomparison.php, line: 109
+# File: printinvoice.php, line: 1052
+# File: printreservation.php, line: 957
+# File: view_requests.php, line: 1287
+# File: viewbookings.php, line: 642
+# File: viewgroupreservations-detailed.php, line: 3006
+# File: viewgroupreservations.php, line: 2753
+# File: viewrequests.php, line: 635
+# File: viewreservations.php, line: 2545
+msgid "of"
+msgstr ""
+#
+# File: availabilityrates.php, line: 908
+# File: listunits.php, line: 278
+# File: printinvoice.php, line: 1053
+# File: printreservation.php, line: 958
+# File: view_requests.php, line: 1288
+# File: viewbookings.php, line: 643
+# File: viewgroupreservations-detailed.php, line: 3007
+# File: viewgroupreservations.php, line: 2754
+# File: viewrequests.php, line: 636
+# File: viewreservations.php, line: 2546
+msgid "Shown"
+msgstr ""
+#
+# File: availabilityrates.php, line: 909
+msgid "Are you sure you want to delete the selected rates?"
+msgstr ""
+#
+# File: availabilityrates.php, line: 911
+msgid "Package:"
+msgstr ""
+#
+# File: availabilityrates.php, line: 913
+# File: availabilityrates.php, line: 933
+# File: maintainbydates.php, line: 4326
+# File: maintainbydates.php, line: 4504
+msgid "- Please select -"
+msgstr ""
+#
+# File: availabilityrates.php, line: 953
+# File: viewbookings.php, line: 565
+# File: viewrequests.php, line: 559
+msgid "PDF"
+msgstr ""
+#
+# File: availabilityrates.php, line: 954
+# File: viewbookings.php, line: 566
+# File: viewrequests.php, line: 560
+msgid "Excel"
+msgstr ""
+#
+# File: availabilityrates.php, line: 962
+# File: createspecial.php, line: 541
+msgid "- Please select room type/unit -"
+msgstr ""
+#
+# File: availabilityrates.php, line: 974
+# File: createspecial.php, line: 536
+msgid "Room Type/Unit:"
+msgstr ""
+#
+# File: availabilityratespdf.php, line: 258
+# File: printinvoice.php, line: 886
+# File: specials.php, line: 504
+# File: viewbookings.php, line: 648
+# File: viewbookings.php, line: 656
+# File: viewgroupreservations-detailed.php, line: 3759
+# File: viewgroupreservations.php, line: 3528
+# File: viewrequests.php, line: 641
+# File: viewrequests.php, line: 649
+# File: viewreservations.php, line: 3257
+msgid "To"
+msgstr ""
+#
+# File: changehotelinfo.php, line: 88
+# File: leftframe.php, line: 83
+msgid "Change Hotel Info"
+msgstr ""
+#
+# File: changehotelinfo.php, line: 89
+msgid "Property Name"
+msgstr ""
+#
+# File: changehotelinfo.php, line: 90
+msgid "Property Type"
+msgstr ""
+#
+# File: changehotelinfo.php, line: 92
+msgid "State/Zone/Region"
+msgstr ""
+#
+# File: changehotelinfo.php, line: 94
+msgid "Area"
+msgstr ""
+#
+# File: changehotelinfo.php, line: 97
+msgid "Currency"
+msgstr ""
+#
+# File: changehotelinfo.php, line: 98
+msgid "Star Class"
+msgstr ""
+#
+# File: changehotelinfo.php, line: 99
+msgid "Website"
+msgstr ""
+#
+# File: changehotelinfo.php, line: 100
+msgid "Number of Rooms"
+msgstr ""
+#
+# File: changehotelinfo.php, line: 101
+msgid "VAT"
+msgstr ""
+#
+# File: changehotelinfo.php, line: 102
+msgid "City Charges"
+msgstr ""
+#
+# File: changehotelinfo.php, line: 103
+# File: maintainbydates.php, line: 4432
+# File: view_requests.php, line: 1789
+# File: viewgroupreservations-detailed.php, line: 3703
+# File: viewgroupreservations.php, line: 3482
+# File: viewreservations.php, line: 3227
+msgid "Price:"
+msgstr ""
+#
+# File: changehotelinfo.php, line: 104
+msgid "Additional Occupancy Fees"
+msgstr ""
+#
+# File: changehotelinfo.php, line: 105
+msgid "Service Fees"
+msgstr ""
+#
+# File: changehotelinfo.php, line: 106
+msgid "Featured Accommodation"
+msgstr ""
+#
+# File: changehotelinfo.php, line: 107
+msgid "Phone"
+msgstr ""
+#
+# File: changehotelinfo.php, line: 109
+# File: changehotelinfo.php, line: 321
+msgid "Alternative Email"
+msgstr ""
+#
+# File: changehotelinfo.php, line: 110
+msgid "Receive Confirmation by"
+msgstr ""
+#
+# File: changehotelinfo.php, line: 113
+msgid "Invalid Property Name."
+msgstr ""
+#
+# File: changehotelinfo.php, line: 114
+msgid "Property Name is required"
+msgstr ""
+#
+# File: changehotelinfo.php, line: 115
+msgid "Invalid Address."
+msgstr ""
+#
+# File: changehotelinfo.php, line: 116
+msgid "Address 1 is required"
+msgstr ""
+#
+# File: changehotelinfo.php, line: 117
+msgid "Invalid ZIP Code/Postal Code."
+msgstr ""
+#
+# File: changehotelinfo.php, line: 118
+msgid "ZIP Code/Postal Code is required"
+msgstr ""
+#
+# File: changehotelinfo.php, line: 119
+msgid "Invalid Phone."
+msgstr ""
+#
+# File: changehotelinfo.php, line: 120
+msgid "Phone is required"
+msgstr ""
+#
+# File: changehotelinfo.php, line: 121
+msgid "Invalid Email."
+msgstr ""
+#
+# File: changehotelinfo.php, line: 122
+msgid "Email is required"
+msgstr ""
+#
+# File: changehotelinfo.php, line: 123
+msgid "Property Name is required."
+msgstr ""
+#
+# File: changehotelinfo.php, line: 124
+msgid "Address is required."
+msgstr ""
+#
+# File: changehotelinfo.php, line: 306
+# File: map.php, line: 158
+# File: reservationsettings.php, line: 213
+msgid "Reservation Settings"
+msgstr ""
+#
+# File: changehotelinfo.php, line: 307
+# File: map.php, line: 157
+msgid "Other Settings"
+msgstr ""
+#
+# File: changehotelinfo.php, line: 308
+# File: map.php, line: 162
+# File: reservationsettings.php, line: 207
+# File: reservationsettings.php, line: 391
+msgid "Map/Location"
+msgstr ""
+#
+# File: changehotelinfo.php, line: 323
+msgid "Secure Checkout:"
+msgstr ""
+#
+# File: changehotelinfo.php, line: 326
+msgid "Class/Star Rating:"
+msgstr ""
+#
+# File: commissionsettings.php, line: 87
+# File: leftframe.php, line: 72
+msgid "Commission Settings"
+msgstr ""
+#
+# File: commissionsettings.php, line: 89
+msgid "for"
+msgstr ""
+#
+# File: commissionsettings.php, line: 90
+msgid "Change Percentage"
+msgstr ""
+#
+# File: commissionsettings.php, line: 91
+msgid "Ranking"
+msgstr ""
+#
+# File: commissionsettings.php, line: 92
+msgid "Please Wait..."
+msgstr ""
+#
+# File: commissionsettings.php, line: 93
+msgid "Accommodation Name"
+msgstr ""
+#
+# File: commissionsettings.php, line: 94
+# File: monthlyoverview.php, line: 193
+# File: monthlyoverviewpdf.php, line: 223
+msgid "Commission"
+msgstr ""
+#
+# File: commissionsettings.php, line: 95
+msgid "Commission is:"
+msgstr ""
+#
+# File: commissionsettings.php, line: 96
+msgid "The higher your Commission Percentage, the higher your position in the search engine; the more reservations you can generate."
+msgstr ""
+#
+# File: createratecodes.php, line: 160
+msgid "Create Rate Code"
+msgstr ""
+#
+# File: createratecodes.php, line: 161
+# File: createratecodesrules.php, line: 222
+# File: createspecial.php, line: 634
+msgid "Rate Code:"
+msgstr ""
+#
+# File: createratecodes.php, line: 162
+# File: createspecial.php, line: 635
+msgid "Name:"
+msgstr ""
+#
+# File: createratecodes.php, line: 163
+msgid "Name is required."
+msgstr ""
+#
+# File: createratecodes.php, line: 166
+msgid "Rate Code is required."
+msgstr ""
+#
+# File: createratecodes.php, line: 168
+msgid "Sort order:"
+msgstr ""
+#
+# File: createratecodes.php, line: 176
+# File: createratecodesrules.php, line: 241
+# File: createspecial.php, line: 515
+# File: ratecodes.php, line: 178
+# File: ratecodesrules.php, line: 218
+# File: specials.php, line: 469
+msgid "Enable"
+msgstr ""
+#
+# File: createratecodes.php, line: 177
+# File: createratecodesrules.php, line: 242
+# File: createspecial.php, line: 516
+# File: ratecodes.php, line: 180
+# File: ratecodesrules.php, line: 220
+# File: specials.php, line: 471
+msgid "Disable"
+msgstr ""
+#
+# File: createratecodesrules.php, line: 216
+msgid "Create Rate Code Rule"
+msgstr ""
+#
+# File: createratecodesrules.php, line: 217
+# File: createspecial.php, line: 629
+msgid "Markup Percentage:"
+msgstr ""
+#
+# File: createratecodesrules.php, line: 218
+# File: createspecial.php, line: 630
+msgid "Discount Percentage:"
+msgstr ""
+#
+# File: createratecodesrules.php, line: 219
+# File: createspecial.php, line: 631
+msgid "Markup Value:"
+msgstr ""
+#
+# File: createratecodesrules.php, line: 220
+# File: createspecial.php, line: 632
+msgid "Discount Value:"
+msgstr ""
+#
+# File: createratecodesrules.php, line: 223
+# File: maintainbydates.php, line: 4486
+msgid "Minimum Stay:"
+msgstr ""
+#
+# File: createratecodesrules.php, line: 228
+msgid "No minimum stay"
+msgstr ""
+#
+# File: createratecodesrules.php, line: 232
+# File: maintainbydates.php, line: 4493
+# File: maintainbydates.php, line: 4494
+msgid "night"
+msgstr ""
+#
+# File: createratecodesrules.php, line: 234
+# File: maintainbydates.php, line: 4496
+# File: maintainbydates.php, line: 4497
+msgid "nights"
+msgstr ""
+#
+# File: createratecodesrules.php, line: 261
+msgid "Booking Lead Time:"
+msgstr ""
+#
+# File: createratecodesrules.php, line: 264
+# File: createspecial.php, line: 589
+msgid "Same day booking allowed (0 days prior to arrival)"
+msgstr ""
+#
+# File: createratecodesrules.php, line: 269
+# File: createspecial.php, line: 594
+msgid "Day prior to arrival"
+msgstr ""
+#
+# File: createratecodesrules.php, line: 272
+# File: createspecial.php, line: 597
+msgid "Days prior to arrival"
+msgstr ""
+#
+# File: createratecodesrules.php, line: 282
+msgid "Days Close to Arrival:"
+msgstr ""
+#
+# File: createratecodesrules.php, line: 285
+# File: createspecial.php, line: 609
+msgid "Same day booking allowed (Don't control close to arrival)"
+msgstr ""
+#
+# File: createratecodesrules.php, line: 290
+# File: createspecial.php, line: 614
+msgid "Day close to arrival"
+msgstr ""
+#
+# File: createratecodesrules.php, line: 293
+# File: createspecial.php, line: 617
+msgid "Days close to arrival"
+msgstr ""
+#
+# File: createratecodesrules.php, line: 316
+msgid "Rate code rules required..."
+msgstr ""
+#
+# File: createspecial.php, line: 439
+msgid "Are you sure you want to delete this special?"
+msgstr ""
+#
+# File: createspecial.php, line: 519
+msgid "Overwrite base price:"
+msgstr ""
+#
+# File: createspecial.php, line: 534
+msgid "Date from:"
+msgstr ""
+#
+# File: createspecial.php, line: 535
+msgid "Date to:"
+msgstr ""
+#
+# File: createspecial.php, line: 555
+msgid "Nights"
+msgstr ""
+#
+# File: createspecial.php, line: 583
+# File: maintainbymonth.php, line: 408
+msgid "Minimum Stay"
+msgstr ""
+#
+# File: createspecial.php, line: 585
+msgid "Lead Time:"
+msgstr ""
+#
+# File: createspecial.php, line: 586
+msgid "Days Close Arrival:"
+msgstr ""
+#
+# File: createspecial.php, line: 628
+msgid "Create special"
+msgstr ""
+#
+# File: createspecial.php, line: 636
+msgid "Name is required"
+msgstr ""
+#
+# File: createspecial.php, line: 644
+msgid "Non refundable:"
+msgstr ""
+#
+# File: extranetimg.php, line: 87
+# File: extranetimg.php, line: 89
+# File: extranetimg.php, line: 957
+# File: leftframe.php, line: 79
+msgid "Images"
+msgstr ""
+#
+# File: extranetimg.php, line: 90
+msgid "Logo"
+msgstr ""
+#
+# File: extranetimg.php, line: 91
+msgid "Show:"
+msgstr ""
+#
+# File: extranetimg.php, line: 92
+msgid "Go"
+msgstr ""
+#
+# File: extranetimg.php, line: 93
+msgid "Lobby"
+msgstr ""
+#
+# File: extranetimg.php, line: 94
+msgid "There is no 360&ordm; image for this accommodation"
+msgstr ""
+#
+# File: extranetimg.php, line: 95
+msgid "Restaurant"
+msgstr ""
+#
+# File: extranetimg.php, line: 96
+# File: pricecomparison.php, line: 104
+# File: printinvoice.php, line: 867
+# File: printreservation.php, line: 775
+msgid "Room"
+msgstr ""
+#
+# File: extranetimg.php, line: 97
+msgid "Outside"
+msgstr ""
+#
+# File: extranetimg.php, line: 342
+# File: extranetimg.php, line: 412
+# File: extranetimg.php, line: 484
+# File: extranetimg.php, line: 554
+# File: extranetimg.php, line: 624
+# File: extranetimg.php, line: 694
+# File: extranetimg.php, line: 764
+# File: extranetimg.php, line: 834
+# File: extranetimg.php, line: 905
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini."
+msgstr ""
+#
+# File: extranetimg.php, line: 350
+# File: extranetimg.php, line: 420
+# File: extranetimg.php, line: 492
+# File: extranetimg.php, line: 562
+# File: extranetimg.php, line: 632
+# File: extranetimg.php, line: 702
+# File: extranetimg.php, line: 772
+# File: extranetimg.php, line: 842
+# File: extranetimg.php, line: 913
+msgid "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form."
+msgstr ""
+#
+# File: extranetimg.php, line: 357
+# File: extranetimg.php, line: 427
+# File: extranetimg.php, line: 499
+# File: extranetimg.php, line: 569
+# File: extranetimg.php, line: 639
+# File: extranetimg.php, line: 709
+# File: extranetimg.php, line: 779
+# File: extranetimg.php, line: 849
+# File: extranetimg.php, line: 920
+msgid "The uploaded file was only partially uploaded."
+msgstr ""
+#
+# File: extranetimg.php, line: 370
+# File: extranetimg.php, line: 440
+# File: extranetimg.php, line: 512
+# File: extranetimg.php, line: 582
+# File: extranetimg.php, line: 652
+# File: extranetimg.php, line: 722
+# File: extranetimg.php, line: 792
+# File: extranetimg.php, line: 862
+# File: extranetimg.php, line: 933
+msgid "Missing a temporary folder. Introduced in PHP 4.3.10 and PHP 5.0.3."
+msgstr ""
+#
+# File: extranetimg.php, line: 958
+msgid "Image 1"
+msgstr ""
+#
+# File: extranetimg.php, line: 959
+msgid "Image 2"
+msgstr ""
+#
+# File: extranetimg.php, line: 960
+msgid "Image 3"
+msgstr ""
+#
+# File: extranetimg.php, line: 961
+msgid "Image 4"
+msgstr ""
+#
+# File: extranetimg.php, line: 962
+msgid "Image 5"
+msgstr ""
+#
+# File: extranetimg.php, line: 963
+msgid "Image 6"
+msgstr ""
+#
+# File: extranetimg.php, line: 964
+msgid "Image 7"
+msgstr ""
+#
+# File: extranetimg.php, line: 965
+msgid "Image 8"
+msgstr ""
+#
+# File: extranetimg.php, line: 1085
+msgid "Hotel Logo:"
+msgstr ""
+#
+# File: graph_basedonarrivaldate.php, line: 200
+# File: graph_basedonbookingdate.php, line: 200
+# File: index.php, line: 112
+# File: index.php, line: 113
+# File: statistics.php, line: 187
+msgid "The amount"
+msgstr ""
+#
+# File: graph_basedonarrivaldate.php, line: 200
+# File: index.php, line: 113
+msgid "in month made based on check in date"
+msgstr ""
+#
+# File: graph_basedonbookingdate.php, line: 200
+# File: index.php, line: 112
+# File: statistics.php, line: 189
+msgid "in month made based on booking date"
+msgstr ""
+#
+# File: graph_last30days.php, line: 202
+# File: index.php, line: 111
+# File: statistics.php, line: 191
+msgid "Number reservations per day for the last 30 days"
+msgstr ""
+#
+# File: graph_yearly.php, line: 200
+# File: index.php, line: 110
+# File: statistics.php, line: 185
+msgid "Number of booking per month"
+msgstr ""
+#
+# File: guestreviews.php, line: 66
+# File: leftframe.php, line: 85
+msgid "Guests Reviews"
+msgstr ""
+#
+# File: guestreviews.php, line: 68
+msgid "Reviewer type"
+msgstr ""
+#
+# File: guestreviews.php, line: 69
+msgid "Sort by"
+msgstr ""
+#
+# File: guestreviews.php, line: 70
+msgid "Client stay purpose"
+msgstr ""
+#
+# File: guestreviews.php, line: 71
+msgid "Review's language"
+msgstr ""
+#
+# File: guestreviews.php, line: 72
+msgid "Recommend purpose"
+msgstr ""
+#
+# File: guestreviews.php, line: 73
+msgid "from"
+msgstr ""
+#
+# File: guestreviews.php, line: 74
+msgid "Search"
+msgstr ""
+#
+# File: guestreviews.php, line: 75
+msgid "All dates"
+msgstr ""
+#
+# File: guestreviews.php, line: 76
+msgid "to:"
+msgstr ""
+#
+# File: guestreviews.php, line: 77
+msgid "No records found"
+msgstr ""
+#
+# File: header.php, line: 3
+msgid "Maintain by date"
+msgstr ""
+#
+# File: header.php, line: 6
+# File: leftframe.php, line: 89
+# File: login.php, line: 589
+msgid "Logout"
+msgstr ""
+#
+# File: header.php, line: 8
+# File: leftframe.php, line: 90
+# File: top.php, line: 471
+msgid "Welcome"
+msgstr ""
+#
+# File: header.php, line: 11
+msgid "Settings"
+msgstr ""
+#
+# File: header.php, line: 12
+# File: leftframe.php, line: 95
+msgid "Management"
+msgstr ""
+#
+# File: header.php, line: 13
+msgid "Monthly overview"
+msgstr ""
+#
+# File: header.php, line: 14
+msgid "View/Print invoices"
+msgstr ""
+#
+# File: header.php, line: 15
+# File: leftframe.php, line: 94
+# File: monthlyoverview.php, line: 195
+# File: openclosedates.php, line: 248
+# File: pricecomparison.php, line: 110
+# File: ratecodes.php, line: 206
+# File: specials.php, line: 512
+msgid "Rates and availability"
+msgstr ""
+#
+# File: header.php, line: 16
+# File: leftframe.php, line: 74
+msgid "Maintain by month"
+msgstr ""
+#
+# File: header.php, line: 17
+msgid "Commission settings"
+msgstr ""
+#
+# File: header.php, line: 18
+msgid "Terms and conditions"
+msgstr ""
+#
+# File: header.php, line: 19
+msgid "Special offers"
+msgstr ""
+#
+# File: header.php, line: 20
+msgid "Open/Close dates"
+msgstr ""
+#
+# File: header.php, line: 21
+msgid "Price comparison"
+msgstr ""
+#
+# File: header.php, line: 22
+msgid "Rate code maintenance"
+msgstr ""
+#
+# File: header.php, line: 23
+msgid "Rate code rules maintenance"
+msgstr ""
+#
+# File: header.php, line: 24
+msgid "Hotel content"
+msgstr ""
+#
+# File: header.php, line: 25
+msgid "Images "
+msgstr ""
+#
+# File: header.php, line: 26
+msgid "List room type/unit"
+msgstr ""
+#
+# File: header.php, line: 27
+msgid "Change hotel info"
+msgstr ""
+#
+# File: header.php, line: 28
+msgid "Page HTML editor"
+msgstr ""
+#
+# File: header.php, line: 29
+msgid "Reservation settings"
+msgstr ""
+#
+# File: header.php, line: 30
+# File: leftframe.php, line: 68
+# File: viewbookings.php, line: 613
+# File: viewbookings.php, line: 645
+msgid "Reservations"
+msgstr ""
+#
+# File: header.php, line: 31
+msgid "View bookings"
+msgstr ""
+#
+# File: header.php, line: 32
+msgid "Extranet"
+msgstr ""
+#
+# File: header.php, line: 33
+# File: leftframe.php, line: 88
+# File: statistics.php, line: 182
+msgid "Statistics"
+msgstr ""
+#
+# File: header.php, line: 34
+msgid "View requests"
+msgstr ""
+#
+# File: header.php, line: 35
+msgid "Availability rates"
+msgstr ""
+#
+# File: header.php, line: 36
+# File: login.php, line: 579
+msgid "Theme Switcher"
+msgstr ""
+#
+# File: header.php, line: 37
+# File: login.php, line: 580
+msgid "Black Rose Theme"
+msgstr ""
+#
+# File: header.php, line: 38
+# File: login.php, line: 581
+msgid "Gray Standard Theme"
+msgstr ""
+#
+# File: header.php, line: 39
+# File: login.php, line: 582
+msgid "Gray Lightness Theme"
+msgstr ""
+#
+# File: header.php, line: 40
+# File: login.php, line: 583
+msgid "Apple Pie Theme"
+msgstr ""
+#
+# File: header.php, line: 41
+# File: login.php, line: 584
+msgid "Blueberry Theme"
+msgstr ""
+#
+# File: header.php, line: 42
+# File: login.php, line: 585
+msgid "Greenberry Theme"
+msgstr ""
+#
+# File: header.php, line: 43
+# File: login.php, line: 586
+msgid "Blue Sky Theme"
+msgstr ""
+#
+# File: header.php, line: 44
+# File: login.php, line: 587
+msgid "Salmon Theme"
+msgstr ""
+#
+# File: header.php, line: 45
+# File: login.php, line: 588
+msgid "Turquoise Theme"
+msgstr ""
+#
+# File: index.php, line: 87
+msgid "Flights"
+msgstr ""
+#
+# File: index.php, line: 88
+msgid "Flights Manager"
+msgstr ""
+#
+# File: index.php, line: 89
+msgid "List Tickets"
+msgstr ""
+#
+# File: index.php, line: 90
+msgid "Manage Routes"
+msgstr ""
+#
+# File: index.php, line: 91
+msgid "Mapping"
+msgstr ""
+#
+# File: index.php, line: 92
+msgid "Flight Insurance"
+msgstr ""
+#
+# File: index.php, line: 93
+msgid "Availability"
+msgstr ""
+#
+# File: index.php, line: 94
+msgid "Airline"
+msgstr ""
+#
+# File: index.php, line: 95
+msgid "Airports"
+msgstr ""
+#
+# File: index.php, line: 96
+msgid "Aircraft Type"
+msgstr ""
+#
+# File: index.php, line: 97
+msgid "Flight XML Feeds"
+msgstr ""
+#
+# File: index.php, line: 98
+msgid "PR Aviation"
+msgstr ""
+#
+# File: index.php, line: 99
+msgid "Galileo"
+msgstr ""
+#
+# File: index.php, line: 100
+msgid "Major Travel"
+msgstr ""
+#
+# File: index.php, line: 101
+msgid "XML Feed Exclude List"
+msgstr ""
+#
+# File: index.php, line: 107
+# File: top.php, line: 470
+msgid "Last login:"
+msgstr ""
+#
+# File: index.php, line: 114
+# File: leftframe.php, line: 67
+msgid "Hotel Partners Program"
+msgstr ""
+#
+# File: index.php, line: 115
+msgid "Add your hotel (Join Now)"
+msgstr ""
+#
+# File: index.php, line: 116
+# File: login.php, line: 565
+# File: top.php, line: 421
+msgid "Login"
+msgstr ""
+#
+# File: index.php, line: 117
+# File: login.php, line: 568
+# File: top.php, line: 422
+msgid "Password"
+msgstr ""
+#
+# File: index.php, line: 118
+# File: login.php, line: 570
+# File: top.php, line: 423
+msgid "Language"
+msgstr ""
+#
+# File: leftframe.php, line: 70
+# File: monthlyoverview.php, line: 181
+# File: monthlyoverviewpdf.php, line: 172
+# File: monthlyoverviewpdf.php, line: 266
+msgid "Monthly Overview"
+msgstr ""
+#
+# File: leftframe.php, line: 71
+# File: view_invoice.php, line: 66
+# File: viewprintinvoices.php, line: 88
+msgid "View/Print Invoices"
+msgstr ""
+#
+# File: leftframe.php, line: 73
+# File: termsconditions.php, line: 88
+msgid "Terms and Conditions"
+msgstr ""
+#
+# File: leftframe.php, line: 75
+# File: specials.php, line: 510
+msgid "Special Offers"
+msgstr ""
+#
+# File: leftframe.php, line: 76
+msgid "Maintain by dates"
+msgstr ""
+#
+# File: leftframe.php, line: 77
+# File: openclosedates.php, line: 243
+msgid "Open/Close Dates"
+msgstr ""
+#
+# File: leftframe.php, line: 78
+# File: pricecomparison.php, line: 88
+msgid "Price Comparison"
+msgstr ""
+#
+# File: leftframe.php, line: 80
+msgid "Rate Codes"
+msgstr ""
+#
+# File: leftframe.php, line: 81
+msgid "Rate Code Rules"
+msgstr ""
+#
+# File: leftframe.php, line: 82
+msgid "Room Type/Unit"
+msgstr ""
+#
+# File: leftframe.php, line: 84
+msgid "Hotel Details"
+msgstr ""
+#
+# File: leftframe.php, line: 86
+msgid "Hotel Settings"
+msgstr ""
+#
+# File: leftframe.php, line: 87
+# File: viewbookings.php, line: 611
+msgid "View Bookings"
+msgstr ""
+#
+# File: leftframe.php, line: 91
+msgid "Last login"
+msgstr ""
+#
+# File: leftframe.php, line: 93
+msgid "Hotel Content"
+msgstr ""
+#
+# File: listunits.php, line: 209
+# File: listunits.php, line: 212
+# File: listunits.php, line: 223
+# File: listunits.php, line: 226
+# File: listunits.php, line: 237
+# File: listunits.php, line: 240
+# File: monthlyoverview.php, line: 143
+# File: monthlyoverview.php, line: 146
+# File: monthlyoverview.php, line: 149
+# File: monthlyoverviewpdf.php, line: 250
+# File: monthlyoverviewpdf.php, line: 253
+# File: monthlyoverviewpdf.php, line: 256
+# File: printinvoice.php, line: 857
+# File: printreservation.php, line: 765
+# File: ratecodesrules.php, line: 190
+# File: specials.php, line: 245
+# File: specials.php, line: 258
+# File: specials.php, line: 421
+# File: view_requests.php, line: 1079
+# File: viewbookings.php, line: 491
+# File: viewbookings.php, line: 494
+# File: viewbookings.php, line: 497
+# File: viewgroupreservations-detailed.php, line: 2662
+# File: viewgroupreservations.php, line: 2394
+# File: viewrequests.php, line: 488
+# File: viewrequests.php, line: 491
+# File: viewrequests.php, line: 494
+# File: viewreservations.php, line: 2260
+msgid "Unknown"
+msgstr ""
+#
+# File: listunits.php, line: 266
+msgid "Sort by Description"
+msgstr ""
+#
+# File: listunits.php, line: 267
+msgid "Description"
+msgstr ""
+#
+# File: listunits.php, line: 268
+# File: specials.php, line: 279
+# File: specials.php, line: 480
+msgid "Sort by Type"
+msgstr ""
+#
+# File: listunits.php, line: 269
+# File: specials.php, line: 288
+# File: specials.php, line: 505
+msgid "Type"
+msgstr ""
+#
+# File: listunits.php, line: 270
+msgid "List Room Type/Unit"
+msgstr ""
+#
+# File: listunits.php, line: 271
+msgid "Room Type(s)/Unit(s)"
+msgstr ""
+#
+# File: listunits.php, line: 273
+msgid "Sort by Meals/Board type"
+msgstr ""
+#
+# File: listunits.php, line: 274
+msgid "Meals/Board Type"
+msgstr ""
+#
+# File: listunits.php, line: 279
+msgid "Are you sure you want to delete the selected Room Type(s)/Unit(s)?"
+msgstr ""
+#
+# File: listunits.php, line: 282
+msgid "Add new room type"
+msgstr ""
+#
+# File: listunits.php, line: 287
+msgid "Are you sure you want to delete the selected room type?"
+msgstr ""
+#
+# File: live_search.php, line: 81
+msgid "Unable to perform search (reservations)"
+msgstr ""
+#
+# File: live_search.php, line: 84
+# File: live_search.php, line: 85
+msgid "Incorrect database access"
+msgstr ""
+#
+# File: live_search.php, line: 94
+msgid "Search results for"
+msgstr ""
+#
+# File: live_search.php, line: 99
+# File: live_search.php, line: 100
+# File: live_search.php, line: 102
+# File: monthlyoverviewpdf.php, line: 218
+# File: printinvoice.php, line: 1067
+# File: printreservation.php, line: 979
+# File: viewgroupreservations-detailed.php, line: 2968
+# File: viewgroupreservations-detailed.php, line: 3025
+# File: viewgroupreservations.php, line: 2713
+# File: viewgroupreservations.php, line: 2773
+# File: viewreservations.php, line: 2564
+msgid "Reservation #"
+msgstr ""
+#
+# File: live_search.php, line: 103
+msgid "Voucher #"
+msgstr ""
+#
+# File: live_search.php, line: 104
+msgid "From:"
+msgstr ""
+#
+# File: live_search.php, line: 105
+msgid "To:"
+msgstr ""
+#
+# File: login.php, line: 492
+# File: login.php, line: 497
+msgid "Invalid login or password"
+msgstr ""
+#
+# File: login.php, line: 493
+# File: login.php, line: 498
+msgid "You appear to have entered an invalid user name or password"
+msgstr ""
+#
+# File: login.php, line: 506
+msgid "The CAPTCHA (Word in image) was not entered correctly. Go back and try it again."
+msgstr ""
+#
+# File: login.php, line: 538
+msgid "Password successfully reset."
+msgstr ""
+#
+# File: login.php, line: 539
+msgid "Your password has been reset. An email containing your new, autogenerated password has been sent to you."
+msgstr ""
+#
+# File: login.php, line: 564
+msgid "Recover Password"
+msgstr ""
+#
+# File: login.php, line: 566
+msgid "Login:"
+msgstr ""
+#
+# File: login.php, line: 567
+msgid "Login or email:"
+msgstr ""
+#
+# File: login.php, line: 573
+msgid "Change Theme"
+msgstr ""
+#
+# File: login.php, line: 576
+msgid "Login is required"
+msgstr ""
+#
+# File: login.php, line: 577
+msgid "Login is a required field. Please try again."
+msgstr ""
+#
+# File: login.php, line: 578
+msgid "Password is a required field. Please try again."
+msgstr ""
+#
+# File: login.php, line: 590
+msgid "Why not add your hotel to our inventory?"
+msgstr ""
+#
+# File: login.php, line: 591
+msgid "Add Your Hotel to our inventory"
+msgstr ""
+#
+# File: login.php, line: 592
+msgid "Captcha Image:"
+msgstr ""
+#
+# File: login.php, line: 593
+msgid "Captcha image:"
+msgstr ""
+#
+# File: login.php, line: 594
+msgid "Image:"
+msgstr ""
+#
+# File: login.php, line: 597
+msgid "To start the online password reset process, please enter your login and the words shown in the image"
+msgstr ""
+#
+# File: login.php, line: 598
+msgid "Forgot Password?"
+msgstr ""
+#
+# File: login.php, line: 599
+msgid "Word in image is a required field. Please input the word in the image."
+msgstr ""
+#
+# File: login.php, line: 600
+msgid "Word in image is required"
+msgstr ""
+#
+# File: login.php, line: 601
+msgid "Send new password"
+msgstr ""
+#
+# File: login.php, line: 615
+msgid "You have been logged out."
+msgstr ""
+#
+# File: login.php, line: 616
+msgid "Thank you for using the system."
+msgstr ""
+#
+# File: login.php, line: 621
+msgid "All rights reserved"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4350
+# File: maintainbydates.php, line: 4351
+# File: pageeditor.php, line: 98
+msgid "Please select"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4423
+msgid "Maintain by Dates"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4425
+# File: maintainbydates.php, line: 4447
+# File: maintainbymonth.php, line: 381
+# File: maintainbymonth.php, line: 404
+msgid "Select Room"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4426
+# File: maintainbydates.php, line: 4428
+# File: maintainbymonth.php, line: 383
+# File: maintainbymonth.php, line: 385
+msgid "Show"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4427
+# File: maintainbymonth.php, line: 384
+msgid "Min.Stay Discount"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4429
+# File: maintainbymonth.php, line: 386
+msgid "Hide"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4430
+# File: maintainbydates.php, line: 4452
+# File: maintainbymonth.php, line: 387
+# File: maintainbymonth.php, line: 411
+# File: openclosedates.php, line: 260
+msgid "Store Adjustments"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4431
+# File: maintainbydates.php, line: 4448
+# File: maintainbymonth.php, line: 388
+# File: maintainbymonth.php, line: 405
+# File: printinvoice.php, line: 1063
+# File: printinvoice.php, line: 1096
+# File: printreservation.php, line: 968
+# File: printreservation.php, line: 999
+# File: specials.php, line: 286
+# File: view_requests.php, line: 1298
+# File: view_requests.php, line: 1326
+# File: viewgroupreservations-detailed.php, line: 3017
+# File: viewgroupreservations-detailed.php, line: 3046
+# File: viewgroupreservations.php, line: 2765
+# File: viewgroupreservations.php, line: 2794
+# File: viewreservations.php, line: 2556
+# File: viewreservations.php, line: 2585
+msgid "Date"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4433
+# File: maintainbydates.php, line: 4450
+# File: maintainbydates.php, line: 4470
+# File: maintainbymonth.php, line: 390
+# File: maintainbymonth.php, line: 407
+msgid "Available"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4434
+# File: maintainbymonth.php, line: 391
+msgid "Com."
+msgstr ""
+#
+# File: maintainbydates.php, line: 4435
+# File: maintainbymonth.php, line: 392
+# File: monthlyoverview.php, line: 194
+# File: printinvoice.php, line: 1051
+# File: printreservation.php, line: 956
+# File: ratecodes.php, line: 202
+# File: view_invoice.php, line: 75
+# File: view_requests.php, line: 1286
+# File: viewbookings.php, line: 654
+# File: viewgroupreservations-detailed.php, line: 3005
+# File: viewgroupreservations.php, line: 2752
+# File: viewprintinvoices.php, line: 98
+# File: viewrequests.php, line: 647
+# File: viewreservations.php, line: 2544
+msgid "Status"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4436
+# File: maintainbymonth.php, line: 393
+msgid "Minimum Stay based on"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4437
+# File: maintainbymonth.php, line: 394
+msgid "Block"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4438
+# File: maintainbymonth.php, line: 395
+msgid "Smart Update"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4439
+# File: maintainbymonth.php, line: 396
+msgid "Day of Arrival:"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4440
+# File: maintainbymonth.php, line: 397
+msgid "Date (stay through):"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4441
+# File: maintainbymonth.php, line: 398
+# File: monthlyoverview.php, line: 188
+# File: monthlyoverviewpdf.php, line: 219
+msgid "Arrival"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4442
+# File: maintainbymonth.php, line: 399
+# File: monthlyoverview.php, line: 189
+# File: monthlyoverviewpdf.php, line: 220
+msgid "Departure"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4443
+# File: maintainbymonth.php, line: 400
+msgid "Select all:"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4444
+# File: maintainbymonth.php, line: 401
+msgid "Closed"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4445
+# File: maintainbymonth.php, line: 402
+msgid "Open"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4451
+# File: maintainbymonth.php, line: 410
+msgid "Bulk Update"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4453
+# File: maintainbymonth.php, line: 412
+msgid "Select all"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4454
+# File: maintainbymonth.php, line: 413
+msgid "Required data is missing"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4455
+# File: maintainbymonth.php, line: 414
+msgid "The Minimum Stay imposes a compulsory minimum period of accommodation"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4456
+# File: maintainbymonth.php, line: 415
+msgid "The Maximum Stay imposes a compulsory maximum period of accommodation"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4457
+# File: maintainbymonth.php, line: 416
+msgid "all price"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4458
+# File: maintainbymonth.php, line: 417
+msgid "all available"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4471
+msgid "On Request"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4472
+msgid "Inventory Status:"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4477
+msgid "In the Maintain by Dates option you can change your prices and availability per specific date or period. The options under Maintain by Month always overrule the Default options: The Default options (rates, discounts, availability) will only apply when no other price, availability or discount is set for a particular date."
+msgstr ""
+#
+# File: maintainbydates.php, line: 4478
+msgid "Room:"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4479
+msgid "Begin Date:"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4480
+msgid "Price is required"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4481
+msgid "Room is required"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4482
+msgid "Begin Date is required"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4483
+msgid "End Date is required"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4484
+# File: monthlyoverview.php, line: 198
+msgid "End Date:"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4485
+# File: openclosedates.php, line: 247
+msgid "Number of rooms available:"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4487
+msgid "Maximum Stay:"
+msgstr ""
+#
+# File: maintainbydates.php, line: 4488
+msgid "Allotment is required"
+msgstr ""
+#
+# File: maintainbymonth.php, line: 379
+msgid "Maintain by Month"
+msgstr ""
+#
+# File: maintainbymonth.php, line: 382
+msgid "Select Room:"
+msgstr ""
+#
+# File: maintainbymonth.php, line: 409
+msgid "Maximum Stay"
+msgstr ""
+#
+# File: maintainbymonth.php, line: 429
+msgid "In the Maintain by Month option you can change your prices and availability per month."
+msgstr ""
+#
+# File: map.php, line: 163
+# File: reservationsettings.php, line: 392
+msgid "Place lodging on map (please, be precise)"
+msgstr ""
+#
+# File: map.php, line: 164
+# File: reservationsettings.php, line: 393
+msgid "Double click with left mouse zooms in"
+msgstr ""
+#
+# File: map.php, line: 165
+# File: reservationsettings.php, line: 394
+msgid "Double click with right mouse zooms out."
+msgstr ""
+#
+# File: map.php, line: 166
+# File: reservationsettings.php, line: 395
+msgid "Find the location of the hotel and click Set/move Marker."
+msgstr ""
+#
+# File: map.php, line: 167
+# File: reservationsettings.php, line: 396
+msgid "Click on the location on the map where the property is located."
+msgstr ""
+#
+# File: map.php, line: 168
+# File: reservationsettings.php, line: 397
+msgid "Set/move marker"
+msgstr ""
+#
+# File: map.php, line: 169
+# File: reservationsettings.php, line: 398
+msgid "We use Google maps, wich don't have detailed maps over the entire world yet. If you can't find the street, try and click 'sattelite' to get a sattelite image over the area. This might enable you to find the location of your lodging. Hopefully, Google maps will expand their detailed maps in the future."
+msgstr ""
+#
+# File: map.php, line: 170
+# File: reservationsettings.php, line: 399
+msgid "NB:"
+msgstr ""
+#
+# File: map.php, line: 203
+# File: reservationsettings.php, line: 401
+msgid "If you want to search for a destination, input it here and click search"
+msgstr ""
+#
+# File: map.php, line: 204
+# File: reservationsettings.php, line: 400
+msgid "Search!"
+msgstr ""
+#
+# File: monthlyoverview.php, line: 157
+# File: printinvoice.php, line: 365
+# File: printinvoice.php, line: 368
+# File: printinvoice.php, line: 371
+# File: printreservation.php, line: 290
+# File: printreservation.php, line: 293
+# File: printreservation.php, line: 296
+# File: viewbookings.php, line: 480
+# File: viewgroupreservations-detailed.php, line: 2763
+# File: viewgroupreservations.php, line: 2514
+# File: viewrequests.php, line: 477
+# File: viewreservations.php, line: 2339
+msgid "New Reservation"
+msgstr ""
+#
+# File: monthlyoverview.php, line: 183
+msgid "From the 1st untill the 10th of every month this tool will be open. During this period you are able to change the status of reservations at your hotel of the previous month. From the 10th of each month this option will close automatically and you won't be able to change status of reservations anymore."
+msgstr ""
+#
+# File: monthlyoverview.php, line: 184
+# File: printinvoice.php, line: 1079
+# File: printreservation.php, line: 982
+# File: view_requests.php, line: 1308
+# File: viewgroupreservations-detailed.php, line: 3029
+# File: viewgroupreservations.php, line: 2777
+# File: viewreservations.php, line: 2568
+msgid "Reservation Number"
+msgstr ""
+#
+# File: monthlyoverview.php, line: 185
+msgid "Customer"
+msgstr ""
+#
+# File: monthlyoverview.php, line: 186
+msgid "Thank you in advance"
+msgstr ""
+#
+# File: monthlyoverview.php, line: 187
+msgid "Print Page"
+msgstr ""
+#
+# File: monthlyoverview.php, line: 190
+# File: monthlyoverviewpdf.php, line: 221
+# File: printinvoice.php, line: 1098
+# File: printreservation.php, line: 1001
+# File: view_requests.php, line: 1328
+# File: viewgroupreservations-detailed.php, line: 3048
+# File: viewgroupreservations.php, line: 2796
+# File: viewreservations.php, line: 2587
+msgid "Unit Type"
+msgstr ""
+#
+# File: monthlyoverview.php, line: 191
+# File: monthlyoverviewpdf.php, line: 222
+# File: printinvoice.php, line: 1066
+# File: printreservation.php, line: 971
+# File: view_requests.php, line: 1301
+# File: viewgroupreservations-detailed.php, line: 3020
+# File: viewgroupreservations.php, line: 2768
+# File: viewreservations.php, line: 2559
+msgid "Total"
+msgstr ""
+#
+# File: monthlyoverview.php, line: 197
+msgid "Start Date"
+msgstr ""
+#
+# File: monthlyoverview.php, line: 203
+# File: viewbookings.php, line: 672
+# File: viewprintinvoices.php, line: 110
+# File: viewrequests.php, line: 665
+msgid "reservation"
+msgstr ""
+#
+# File: monthlyoverview.php, line: 228
+msgid "week(s)"
+msgstr ""
+#
+# File: openclosedates.php, line: 245
+msgid "Rooms available of"
+msgstr ""
+#
+# File: openclosedates.php, line: 246
+msgid "Rooms available for"
+msgstr ""
+#
+# File: openclosedates.php, line: 261
+msgid "You can make rooms available or unavailable to be booked, by clicking on the square red/green boxes."
+msgstr ""
+#
+# File: openclosedates.php, line: 262
+msgid "Green = room is available and can be booked on this date"
+msgstr ""
+#
+# File: openclosedates.php, line: 263
+msgid "Red = room is not available and cannot be booked on this date"
+msgstr ""
+#
+# File: openclosedates.php, line: 264
+msgid "Yellow= this room has no pricing and no availability and cannot be booked on this date"
+msgstr ""
+#
+# File: pageeditor.php, line: 100
+msgid "Property Description"
+msgstr ""
+#
+# File: pageeditor.php, line: 102
+msgid "Intro Message"
+msgstr ""
+#
+# File: pageeditor.php, line: 104
+msgid "Services/Facilities"
+msgstr ""
+#
+# File: pageeditor.php, line: 106
+msgid "Rooms Info"
+msgstr ""
+#
+# File: pageeditor.php, line: 108
+msgid "News & Events"
+msgstr ""
+#
+# File: pageeditor.php, line: 110
+msgid "Privacy Policies"
+msgstr ""
+#
+# File: pageeditor.php, line: 112
+msgid "Terms & Conditions"
+msgstr ""
+#
+# File: pageeditor.php, line: 114
+msgid "Location Info"
+msgstr ""
+#
+# File: pageeditor.php, line: 116
+msgid "Contact Us Info"
+msgstr ""
+#
+# File: pageeditor.php, line: 118
+msgid "About Us Info"
+msgstr ""
+#
+# File: pageeditor.php, line: 120
+msgid "Service Agreement Info"
+msgstr ""
+#
+# File: pageeditor.php, line: 124
+msgid "Rates Info"
+msgstr ""
+#
+# File: pageeditor.php, line: 126
+msgid "History Info"
+msgstr ""
+#
+# File: pageeditor.php, line: 128
+msgid "Agenda Info"
+msgstr ""
+#
+# File: pageeditor.php, line: 130
+msgid "Cancellation Policy"
+msgstr ""
+#
+# File: pageeditor.php, line: 132
+msgid "Breakfast Info"
+msgstr ""
+#
+# File: pageeditor.php, line: 134
+msgid "Confirmation Notes"
+msgstr ""
+#
+# File: pageeditor.php, line: 168
+msgid "Page HTML Editor"
+msgstr ""
+#
+# File: pageeditor.php, line: 169
+msgid "Page"
+msgstr ""
+#
+# File: pageeditor.php, line: 175
+msgid "Text"
+msgstr ""
+#
+# File: pageeditor.php, line: 179
+msgid "Please select the page you want to edit"
+msgstr ""
+#
+# File: pricecomparison.php, line: 90
+msgid "Support NH"
+msgstr ""
+#
+# File: pricecomparison.php, line: 92
+msgid "Number of Nights:"
+msgstr ""
+#
+# File: pricecomparison.php, line: 93
+msgid "Select Room Type:"
+msgstr ""
+#
+# File: pricecomparison.php, line: 94
+msgid "Compare with specified hotel(s)"
+msgstr ""
+#
+# File: pricecomparison.php, line: 95
+msgid "Select all hotels"
+msgstr ""
+#
+# File: pricecomparison.php, line: 96
+msgid "Distance from your hotel:"
+msgstr ""
+#
+# File: pricecomparison.php, line: 97
+msgid "stars rank :"
+msgstr ""
+#
+# File: pricecomparison.php, line: 98
+msgid "Find Hotels"
+msgstr ""
+#
+# File: pricecomparison.php, line: 99
+msgid "Result for"
+msgstr ""
+#
+# File: pricecomparison.php, line: 100
+# File: viewbookings.php, line: 622
+# File: viewrequests.php, line: 615
+msgid "to"
+msgstr ""
+#
+# File: pricecomparison.php, line: 101
+# File: viewprintinvoices.php, line: 101
+msgid "Next"
+msgstr ""
+#
+# File: pricecomparison.php, line: 102
+msgid "days"
+msgstr ""
+#
+# File: pricecomparison.php, line: 103
+msgid "Hotel"
+msgstr ""
+#
+# File: pricecomparison.php, line: 106
+msgid "Breakfast"
+msgstr ""
+#
+# File: pricecomparison.php, line: 107
+msgid "Update "
+msgstr ""
+#
+# File: pricecomparison.php, line: 108
+msgid "Showing"
+msgstr ""
+#
+# File: printinvoice.php, line: 350
+# File: printinvoice.php, line: 353
+# File: printinvoice.php, line: 356
+# File: printreservation.php, line: 275
+# File: printreservation.php, line: 278
+# File: printreservation.php, line: 281
+# File: viewgroupreservations-detailed.php, line: 2771
+# File: viewgroupreservations.php, line: 2522
+# File: viewreservations.php, line: 2347
+msgid "Awaiting Payment"
+msgstr ""
+#
+# File: printinvoice.php, line: 416
+# File: printreservation.php, line: 342
+# File: view_requests.php, line: 670
+# File: viewgroupreservations-detailed.php, line: 2222
+# File: viewgroupreservations.php, line: 1933
+# File: viewreservations.php, line: 1818
+msgid "Credit Card"
+msgstr ""
+#
+# File: printinvoice.php, line: 582
+# File: printinvoice.php, line: 593
+# File: printinvoice.php, line: 597
+# File: printreservation.php, line: 488
+# File: printreservation.php, line: 499
+# File: printreservation.php, line: 503
+msgid "N/A"
+msgstr ""
+#
+# File: printinvoice.php, line: 868
+# File: printreservation.php, line: 916
+# File: viewgroupreservations-detailed.php, line: 3056
+# File: viewgroupreservations.php, line: 2804
+msgid "Lodging Pending"
+msgstr ""
+#
+# File: printinvoice.php, line: 883
+msgid "Loading"
+msgstr ""
+#
+# File: printinvoice.php, line: 887
+# File: printinvoice.php, line: 1074
+# File: printreservation.php, line: 977
+# File: specials.php, line: 291
+# File: viewgroupreservations-detailed.php, line: 3757
+# File: viewgroupreservations.php, line: 3526
+# File: viewreservations.php, line: 3255
+msgid "Allotment"
+msgstr ""
+#
+# File: printinvoice.php, line: 1014
+# File: printreservation.php, line: 914
+# File: viewgroupreservations-detailed.php, line: 3052
+# File: viewgroupreservations.php, line: 2800
+msgid "Miscellaneous Pending"
+msgstr ""
+#
+# File: printinvoice.php, line: 1015
+# File: printreservation.php, line: 915
+# File: viewgroupreservations-detailed.php, line: 3057
+# File: viewgroupreservations.php, line: 2805
+msgid "Total Pending"
+msgstr ""
+#
+# File: printinvoice.php, line: 1040
+# File: printreservation.php, line: 945
+# File: view_requests.php, line: 1270
+# File: viewgroupreservations-detailed.php, line: 2994
+# File: viewgroupreservations.php, line: 2738
+# File: viewreservations.php, line: 2533
+msgid "Special Request Information"
+msgstr ""
+#
+# File: printinvoice.php, line: 1047
+# File: printreservation.php, line: 952
+# File: view_requests.php, line: 1279
+# File: viewgroupreservations-detailed.php, line: 3001
+# File: viewgroupreservations.php, line: 2745
+# File: viewreservations.php, line: 2540
+msgid "Voucher"
+msgstr ""
+#
+# File: printinvoice.php, line: 1048
+# File: printreservation.php, line: 953
+# File: ratecodes.php, line: 197
+# File: ratecodesrules.php, line: 241
+# File: specials.php, line: 283
+# File: specials.php, line: 491
+# File: view_requests.php, line: 1280
+# File: viewgroupreservations-detailed.php, line: 3002
+# File: viewgroupreservations.php, line: 2746
+# File: viewreservations.php, line: 2541
+msgid "Update selected"
+msgstr ""
+#
+# File: printinvoice.php, line: 1049
+# File: printreservation.php, line: 954
+# File: view_requests.php, line: 1284
+# File: viewgroupreservations-detailed.php, line: 3003
+# File: viewgroupreservations.php, line: 2747
+# File: viewreservations.php, line: 2542
+msgid "Deleted selected"
+msgstr ""
+#
+# File: printinvoice.php, line: 1050
+# File: printreservation.php, line: 955
+# File: ratecodes.php, line: 195
+# File: view_requests.php, line: 1285
+# File: viewgroupreservations-detailed.php, line: 3004
+# File: viewgroupreservations.php, line: 2751
+# File: viewreservations.php, line: 2543
+msgid "Sort by Status"
+msgstr ""
+#
+# File: printinvoice.php, line: 1054
+# File: printreservation.php, line: 959
+# File: view_requests.php, line: 1289
+# File: viewbookings.php, line: 675
+# File: viewgroupreservations-detailed.php, line: 3008
+# File: viewgroupreservations.php, line: 2755
+# File: viewprintinvoices.php, line: 113
+# File: viewrequests.php, line: 668
+# File: viewreservations.php, line: 2547
+msgid "Are you sure you want to delete the selected reservation?"
+msgstr ""
+#
+# File: printinvoice.php, line: 1056
+# File: printreservation.php, line: 961
+# File: view_requests.php, line: 1291
+# File: viewgroupreservations-detailed.php, line: 3010
+# File: viewgroupreservations.php, line: 2758
+# File: viewreservations.php, line: 2549
+msgid "Adults"
+msgstr ""
+#
+# File: printinvoice.php, line: 1057
+# File: printreservation.php, line: 962
+# File: view_requests.php, line: 1292
+# File: viewgroupreservations-detailed.php, line: 3011
+# File: viewgroupreservations.php, line: 2759
+# File: viewreservations.php, line: 2550
+msgid "Orders"
+msgstr ""
+#
+# File: printinvoice.php, line: 1058
+# File: printreservation.php, line: 963
+# File: view_requests.php, line: 1293
+# File: viewgroupreservations-detailed.php, line: 3012
+# File: viewgroupreservations.php, line: 2760
+# File: viewreservations.php, line: 2551
+msgid "Children"
+msgstr ""
+#
+# File: printinvoice.php, line: 1059
+# File: printreservation.php, line: 964
+# File: view_requests.php, line: 1294
+# File: viewgroupreservations-detailed.php, line: 3013
+# File: viewgroupreservations.php, line: 2761
+# File: viewreservations.php, line: 2552
+msgid "Sort by Order ID"
+msgstr ""
+#
+# File: printinvoice.php, line: 1060
+# File: printreservation.php, line: 965
+# File: view_requests.php, line: 1295
+# File: viewgroupreservations-detailed.php, line: 3014
+# File: viewgroupreservations.php, line: 2762
+# File: viewreservations.php, line: 2553
+msgid "Order ID"
+msgstr ""
+#
+# File: printinvoice.php, line: 1061
+# File: printreservation.php, line: 966
+# File: view_requests.php, line: 1296
+# File: viewgroupreservations-detailed.php, line: 3015
+# File: viewgroupreservations.php, line: 2763
+# File: viewreservations.php, line: 2554
+msgid "Sort by Customer"
+msgstr ""
+#
+# File: printinvoice.php, line: 1062
+# File: printreservation.php, line: 967
+# File: view_requests.php, line: 1297
+# File: viewbookings.php, line: 605
+# File: viewgroupreservations-detailed.php, line: 3016
+# File: viewgroupreservations.php, line: 2764
+# File: viewrequests.php, line: 599
+# File: viewreservations.php, line: 2555
+msgid "Customer Name"
+msgstr ""
+#
+# File: printinvoice.php, line: 1064
+# File: printreservation.php, line: 969
+# File: specials.php, line: 278
+# File: view_requests.php, line: 1299
+# File: viewgroupreservations-detailed.php, line: 3018
+# File: viewgroupreservations.php, line: 2766
+# File: viewreservations.php, line: 2557
+msgid "Sort by Date"
+msgstr ""
+#
+# File: printinvoice.php, line: 1065
+# File: printreservation.php, line: 970
+# File: view_requests.php, line: 1300
+# File: viewgroupreservations-detailed.php, line: 3019
+# File: viewgroupreservations.php, line: 2767
+# File: viewreservations.php, line: 2558
+msgid "Sort by Total"
+msgstr ""
+#
+# File: printinvoice.php, line: 1068
+# File: printreservation.php, line: 980
+msgid "Reservation"
+msgstr ""
+#
+# File: printinvoice.php, line: 1069
+# File: printreservation.php, line: 972
+# File: viewgroupreservations-detailed.php, line: 3021
+# File: viewgroupreservations.php, line: 2769
+# File: viewreservations.php, line: 2560
+msgid "Reservation Total"
+msgstr ""
+#
+# File: printinvoice.php, line: 1070
+# File: printreservation.php, line: 973
+# File: viewgroupreservations-detailed.php, line: 3022
+# File: viewgroupreservations.php, line: 2770
+# File: viewreservations.php, line: 2561
+msgid "View Reservation"
+msgstr ""
+#
+# File: printinvoice.php, line: 1071
+# File: printreservation.php, line: 974
+# File: view_requests.php, line: 1304
+# File: viewgroupreservations-detailed.php, line: 3023
+# File: viewgroupreservations.php, line: 2771
+# File: viewreservations.php, line: 2562
+msgid "Customer Information"
+msgstr ""
+#
+# File: printinvoice.php, line: 1072
+# File: printreservation.php, line: 975
+# File: viewgroupreservations-detailed.php, line: 3024
+# File: viewgroupreservations.php, line: 2772
+# File: viewreservations.php, line: 2563
+msgid "Reservation Information"
+msgstr ""
+#
+# File: printinvoice.php, line: 1076
+msgid "Invoice #"
+msgstr ""
+#
+# File: printinvoice.php, line: 1077
+msgid "Invoice"
+msgstr ""
+#
+# File: printinvoice.php, line: 1078
+# File: printreservation.php, line: 981
+# File: view_requests.php, line: 1307
+# File: viewgroupreservations-detailed.php, line: 3026
+# File: viewgroupreservations.php, line: 2774
+# File: viewreservations.php, line: 2565
+msgid "IP Address"
+msgstr ""
+#
+# File: printinvoice.php, line: 1080
+# File: printreservation.php, line: 983
+# File: view_requests.php, line: 1309
+# File: viewgroupreservations-detailed.php, line: 3030
+# File: viewgroupreservations-detailed.php, line: 3808
+# File: viewgroupreservations.php, line: 2778
+# File: viewgroupreservations.php, line: 3571
+# File: viewreservations.php, line: 2569
+# File: viewreservations.php, line: 3297
+msgid "Reservation Updated"
+msgstr ""
+#
+# File: printinvoice.php, line: 1081
+# File: printreservation.php, line: 984
+# File: view_requests.php, line: 1310
+# File: viewgroupreservations-detailed.php, line: 3031
+# File: viewgroupreservations.php, line: 2779
+# File: viewreservations.php, line: 2570
+msgid "Reservation Date"
+msgstr ""
+#
+# File: printinvoice.php, line: 1082
+# File: printreservation.php, line: 985
+# File: view_requests.php, line: 1311
+# File: viewgroupreservations-detailed.php, line: 3032
+# File: viewgroupreservations.php, line: 2780
+# File: viewreservations.php, line: 2571
+msgid "Customer #"
+msgstr ""
+#
+# File: printinvoice.php, line: 1083
+# File: printreservation.php, line: 986
+# File: viewgroupreservations-detailed.php, line: 3033
+# File: viewgroupreservations.php, line: 2781
+# File: viewreservations.php, line: 2572
+msgid "Reservation Status"
+msgstr ""
+#
+# File: printinvoice.php, line: 1084
+# File: printreservation.php, line: 987
+# File: view_requests.php, line: 1314
+# File: viewgroupreservations-detailed.php, line: 3034
+# File: viewgroupreservations.php, line: 2782
+# File: viewreservations.php, line: 2573
+msgid "Payment Method"
+msgstr ""
+#
+# File: printinvoice.php, line: 1085
+# File: printreservation.php, line: 988
+# File: view_requests.php, line: 1315
+# File: viewgroupreservations-detailed.php, line: 3035
+# File: viewgroupreservations.php, line: 2783
+# File: viewreservations.php, line: 2574
+msgid "Payment Status"
+msgstr ""
+#
+# File: printinvoice.php, line: 1086
+# File: printreservation.php, line: 989
+# File: view_requests.php, line: 1316
+# File: viewgroupreservations-detailed.php, line: 3036
+# File: viewgroupreservations.php, line: 2784
+# File: viewreservations.php, line: 2575
+msgid "Bank Information"
+msgstr ""
+#
+# File: printinvoice.php, line: 1087
+# File: printreservation.php, line: 990
+# File: view_requests.php, line: 1317
+# File: viewgroupreservations-detailed.php, line: 3037
+# File: viewgroupreservations.php, line: 2785
+# File: viewreservations.php, line: 2576
+msgid "Name on the customer bank account"
+msgstr ""
+#
+# File: printinvoice.php, line: 1088
+# File: printreservation.php, line: 991
+# File: view_requests.php, line: 1318
+# File: viewgroupreservations-detailed.php, line: 3038
+# File: viewgroupreservations.php, line: 2786
+# File: viewreservations.php, line: 2577
+msgid "Bank name"
+msgstr ""
+#
+# File: printinvoice.php, line: 1089
+# File: printreservation.php, line: 992
+# File: view_requests.php, line: 1319
+# File: viewgroupreservations-detailed.php, line: 3039
+# File: viewgroupreservations.php, line: 2787
+# File: viewreservations.php, line: 2578
+msgid "Bank account number"
+msgstr ""
+#
+# File: printinvoice.php, line: 1090
+# File: printreservation.php, line: 993
+# File: view_requests.php, line: 1320
+# File: viewgroupreservations-detailed.php, line: 3040
+# File: viewgroupreservations.php, line: 2788
+# File: viewreservations.php, line: 2579
+msgid "Bank ABA routing number"
+msgstr ""
+#
+# File: printinvoice.php, line: 1091
+# File: printreservation.php, line: 994
+# File: view_requests.php, line: 1321
+# File: viewgroupreservations-detailed.php, line: 3041
+# File: viewgroupreservations.php, line: 2789
+# File: viewreservations.php, line: 2580
+msgid "Credit Card Information"
+msgstr ""
+#
+# File: printinvoice.php, line: 1092
+# File: printreservation.php, line: 995
+# File: view_requests.php, line: 1322
+# File: viewgroupreservations-detailed.php, line: 3042
+# File: viewgroupreservations.php, line: 2790
+# File: viewreservations.php, line: 2581
+msgid "Credit Card Name"
+msgstr ""
+#
+# File: printinvoice.php, line: 1093
+# File: printreservation.php, line: 996
+# File: view_requests.php, line: 1323
+# File: viewgroupreservations-detailed.php, line: 3043
+# File: viewgroupreservations.php, line: 2791
+# File: viewreservations.php, line: 2582
+msgid "Credit Card Number"
+msgstr ""
+#
+# File: printinvoice.php, line: 1094
+# File: printreservation.php, line: 997
+# File: view_requests.php, line: 1324
+# File: viewgroupreservations-detailed.php, line: 3044
+# File: viewgroupreservations.php, line: 2792
+# File: viewreservations.php, line: 2583
+msgid "Expiration Date"
+msgstr ""
+#
+# File: printinvoice.php, line: 1095
+# File: printreservation.php, line: 998
+# File: view_requests.php, line: 1325
+# File: viewgroupreservations-detailed.php, line: 3045
+# File: viewgroupreservations.php, line: 2793
+# File: viewreservations.php, line: 2584
+msgid "CVV"
+msgstr ""
+#
+# File: printinvoice.php, line: 1099
+# File: printreservation.php, line: 1002
+# File: view_requests.php, line: 1329
+# File: viewgroupreservations-detailed.php, line: 3049
+# File: viewgroupreservations.php, line: 2797
+# File: viewreservations.php, line: 2588
+msgid "Subtotal"
+msgstr ""
+#
+# File: printinvoice.php, line: 1100
+# File: printreservation.php, line: 1003
+# File: view_requests.php, line: 1330
+# File: viewgroupreservations-detailed.php, line: 3050
+# File: viewgroupreservations.php, line: 2798
+# File: viewreservations.php, line: 2589
+msgid "Service Charge"
+msgstr ""
+#
+# File: printinvoice.php, line: 1101
+# File: printreservation.php, line: 1004
+# File: view_requests.php, line: 1331
+# File: viewgroupreservations-detailed.php, line: 3051
+# File: viewgroupreservations.php, line: 2799
+# File: viewreservations.php, line: 2590
+msgid "Miscellaneous"
+msgstr ""
+#
+# File: printinvoice.php, line: 1102
+# File: printreservation.php, line: 1005
+# File: view_requests.php, line: 1332
+# File: viewgroupreservations-detailed.php, line: 3053
+# File: viewgroupreservations.php, line: 2801
+# File: viewreservations.php, line: 2591
+msgid "Deposit"
+msgstr ""
+#
+# File: printinvoice.php, line: 1103
+# File: printreservation.php, line: 1006
+# File: view_requests.php, line: 1333
+# File: viewgroupreservations-detailed.php, line: 3054
+# File: viewgroupreservations.php, line: 2802
+# File: viewprintinvoices.php, line: 97
+# File: viewreservations.php, line: 2592
+msgid "Paid"
+msgstr ""
+#
+# File: printinvoice.php, line: 1104
+# File: printreservation.php, line: 1007
+# File: view_requests.php, line: 1334
+# File: viewgroupreservations-detailed.php, line: 3055
+# File: viewgroupreservations.php, line: 2803
+# File: viewreservations.php, line: 2593
+msgid "Pending"
+msgstr ""
+#
+# File: printinvoice.php, line: 1105
+# File: printreservation.php, line: 1008
+# File: view_requests.php, line: 1335
+# File: viewgroupreservations-detailed.php, line: 3058
+# File: viewgroupreservations.php, line: 2806
+# File: viewreservations.php, line: 2594
+msgid "Total Paid"
+msgstr ""
+#
+# File: printinvoice.php, line: 1107
+# File: printreservation.php, line: 1010
+# File: viewgroupreservations-detailed.php, line: 3060
+# File: viewgroupreservations.php, line: 2808
+# File: viewreservations.php, line: 2596
+msgid "Print Reservation"
+msgstr ""
+#
+# File: printinvoice.php, line: 1108
+# File: printreservation.php, line: 1011
+# File: view_requests.php, line: 1338
+# File: viewgroupreservations-detailed.php, line: 3063
+# File: viewgroupreservations.php, line: 2810
+# File: viewreservations.php, line: 2598
+msgid "Fraud Detection Information"
+msgstr ""
+#
+# File: printinvoice.php, line: 1109
+# File: printinvoice.php, line: 1121
+# File: printreservation.php, line: 1012
+# File: printreservation.php, line: 1024
+# File: view_requests.php, line: 1339
+# File: view_requests.php, line: 1351
+# File: viewgroupreservations-detailed.php, line: 3064
+# File: viewgroupreservations-detailed.php, line: 3076
+# File: viewgroupreservations.php, line: 2811
+# File: viewgroupreservations.php, line: 2823
+# File: viewreservations.php, line: 2599
+# File: viewreservations.php, line: 2611
+msgid "Fraud Score"
+msgstr ""
+#
+# File: printinvoice.php, line: 1110
+# File: printreservation.php, line: 1013
+# File: view_requests.php, line: 1340
+# File: viewgroupreservations-detailed.php, line: 3065
+# File: viewgroupreservations.php, line: 2812
+# File: viewreservations.php, line: 2600
+msgid "(0 low risk, 10 high risk)"
+msgstr ""
+#
+# File: printinvoice.php, line: 1111
+# File: printreservation.php, line: 1014
+# File: view_requests.php, line: 1341
+# File: viewgroupreservations-detailed.php, line: 3066
+# File: viewgroupreservations.php, line: 2813
+# File: viewreservations.php, line: 2601
+msgid "Country Match"
+msgstr ""
+#
+# File: printinvoice.php, line: 1112
+# File: printreservation.php, line: 1015
+# File: view_requests.php, line: 1342
+# File: viewgroupreservations-detailed.php, line: 3067
+# File: viewgroupreservations.php, line: 2814
+# File: viewreservations.php, line: 2602
+msgid "IP Country Code"
+msgstr ""
+#
+# File: printinvoice.php, line: 1113
+# File: printinvoice.php, line: 1114
+# File: printreservation.php, line: 1016
+# File: printreservation.php, line: 1017
+# File: view_requests.php, line: 1343
+# File: view_requests.php, line: 1344
+# File: viewgroupreservations-detailed.php, line: 3068
+# File: viewgroupreservations-detailed.php, line: 3069
+# File: viewgroupreservations.php, line: 2815
+# File: viewgroupreservations.php, line: 2816
+# File: viewreservations.php, line: 2603
+# File: viewreservations.php, line: 2604
+msgid "High Risk Country"
+msgstr ""
+#
+# File: printinvoice.php, line: 1115
+# File: printreservation.php, line: 1018
+# File: view_requests.php, line: 1345
+# File: viewgroupreservations-detailed.php, line: 3070
+# File: viewgroupreservations.php, line: 2817
+# File: viewreservations.php, line: 2605
+msgid "Spam Score"
+msgstr ""
+#
+# File: printinvoice.php, line: 1116
+# File: printreservation.php, line: 1019
+# File: view_requests.php, line: 1346
+# File: viewgroupreservations-detailed.php, line: 3071
+# File: viewgroupreservations.php, line: 2818
+# File: viewreservations.php, line: 2606
+msgid "Credit Card Country Code"
+msgstr ""
+#
+# File: printinvoice.php, line: 1117
+# File: printreservation.php, line: 1020
+# File: view_requests.php, line: 1347
+# File: viewgroupreservations-detailed.php, line: 3072
+# File: viewgroupreservations.php, line: 2819
+# File: viewreservations.php, line: 2607
+msgid "Credit Card Country Match"
+msgstr ""
+#
+# File: printinvoice.php, line: 1118
+# File: printreservation.php, line: 1021
+# File: view_requests.php, line: 1348
+# File: viewgroupreservations-detailed.php, line: 3073
+# File: viewgroupreservations.php, line: 2820
+# File: viewreservations.php, line: 2608
+msgid "Internet Service Provider"
+msgstr ""
+#
+# File: printinvoice.php, line: 1119
+# File: printreservation.php, line: 1022
+# File: view_requests.php, line: 1349
+# File: viewgroupreservations-detailed.php, line: 3074
+# File: viewgroupreservations.php, line: 2821
+# File: viewreservations.php, line: 2609
+msgid "Free E-mail Provider"
+msgstr ""
+#
+# File: printinvoice.php, line: 1120
+# File: printreservation.php, line: 1023
+# File: view_requests.php, line: 1350
+# File: viewgroupreservations-detailed.php, line: 3075
+# File: viewgroupreservations.php, line: 2822
+# File: viewreservations.php, line: 2610
+msgid "Anonymous Proxy"
+msgstr ""
+#
+# File: printinvoice.php, line: 1122
+# File: printreservation.php, line: 1025
+msgid "Voucher ID:"
+msgstr ""
+#
+# File: printinvoice.php, line: 1123
+# File: printreservation.php, line: 1026
+msgid "Personal ID:"
+msgstr ""
+#
+# File: printinvoice.php, line: 1124
+# File: printreservation.php, line: 1027
+msgid "VAT #:"
+msgstr ""
+#
+# File: printinvoice.php, line: 1125
+# File: printreservation.php, line: 1028
+# File: viewgroupreservations-detailed.php, line: 3719
+# File: viewgroupreservations.php, line: 3494
+msgid "Gift Certificate"
+msgstr ""
+#
+# File: printinvoice.php, line: 1249
+# File: printreservation.php, line: 1169
+# File: view_requests.php, line: 1543
+# File: viewgroupreservations-detailed.php, line: 3434
+# File: viewgroupreservations.php, line: 3179
+# File: viewreservations.php, line: 2969
+msgid "Client IP address is required but was not found. Credit Card Fraud Detection has not been performed"
+msgstr ""
+#
+# File: printinvoice.php, line: 1253
+# File: printinvoice.php, line: 1257
+# File: printreservation.php, line: 1173
+# File: printreservation.php, line: 1177
+# File: view_requests.php, line: 1547
+# File: view_requests.php, line: 1551
+# File: viewgroupreservations-detailed.php, line: 3438
+# File: viewgroupreservations-detailed.php, line: 3442
+# File: viewgroupreservations.php, line: 3183
+# File: viewgroupreservations.php, line: 3187
+# File: viewreservations.php, line: 2973
+# File: viewreservations.php, line: 2977
+msgid "Country information is required but was not found. Credit Card Fraud Detection has not been performed"
+msgstr ""
+#
+# File: printinvoice.php, line: 1261
+# File: printinvoice.php, line: 1265
+# File: printreservation.php, line: 1181
+# File: printreservation.php, line: 1185
+# File: view_requests.php, line: 1555
+# File: view_requests.php, line: 1559
+# File: viewgroupreservations-detailed.php, line: 3446
+# File: viewgroupreservations-detailed.php, line: 3450
+# File: viewgroupreservations.php, line: 3191
+# File: viewgroupreservations.php, line: 3195
+# File: viewreservations.php, line: 2981
+# File: viewreservations.php, line: 2985
+msgid "City information is required but was not found. Credit Card Fraud Detection has not been performed"
+msgstr ""
+#
+# File: printinvoice.php, line: 1269
+# File: printreservation.php, line: 1189
+# File: view_requests.php, line: 1563
+# File: viewgroupreservations-detailed.php, line: 3454
+# File: viewgroupreservations.php, line: 3199
+# File: viewreservations.php, line: 2989
+msgid "ZIP Code/Postal Code information is required but was not found. Credit Card Fraud Detection has not been performed"
+msgstr ""
+#
+# File: printinvoice.php, line: 1349
+# File: printreservation.php, line: 1285
+# File: view_requests.php, line: 1653
+# File: viewgroupreservations-detailed.php, line: 3546
+# File: viewgroupreservations.php, line: 3290
+# File: viewreservations.php, line: 3080
+msgid "Credit Card Fraud Detection System Failed"
+msgstr ""
+#
+# File: printinvoice.php, line: 1361
+msgid "Web:"
+msgstr ""
+#
+# File: ratecodes.php, line: 187
+# File: ratecodesrules.php, line: 229
+# File: viewgroupreservations-detailed.php, line: 3992
+msgid "Update"
+msgstr ""
+#
+# File: ratecodes.php, line: 191
+msgid "Add New Rate Code"
+msgstr ""
+#
+# File: ratecodes.php, line: 193
+# File: ratecodesrules.php, line: 233
+# File: specials.php, line: 482
+msgid "Sort by Rate Code"
+msgstr ""
+#
+# File: ratecodes.php, line: 194
+# File: specials.php, line: 474
+msgid "Sort by Name"
+msgstr ""
+#
+# File: ratecodes.php, line: 196
+msgid "Sort by Sort Order"
+msgstr ""
+#
+# File: ratecodes.php, line: 198
+# File: ratecodes.php, line: 208
+msgid "Are you sure you want to delete the selected rate code?"
+msgstr ""
+#
+# File: ratecodes.php, line: 200
+# File: ratecodesrules.php, line: 244
+# File: specials.php, line: 289
+# File: specials.php, line: 494
+msgid "Rate Code"
+msgstr ""
+#
+# File: ratecodes.php, line: 201
+# File: specials.php, line: 475
+msgid "Name"
+msgstr ""
+#
+# File: ratecodes.php, line: 203
+msgid "Sort Order"
+msgstr ""
+#
+# File: ratecodes.php, line: 204
+msgid "Rate Code Maintenance"
+msgstr ""
+#
+# File: ratecodesrules.php, line: 227
+msgid "New Rate Code Rule"
+msgstr ""
+#
+# File: ratecodesrules.php, line: 234
+# File: specials.php, line: 483
+msgid "Sort by Markup Percentage"
+msgstr ""
+#
+# File: ratecodesrules.php, line: 235
+# File: specials.php, line: 484
+msgid "Sort by Discount Percentage"
+msgstr ""
+#
+# File: ratecodesrules.php, line: 236
+# File: specials.php, line: 485
+msgid "Sort by Markup Value"
+msgstr ""
+#
+# File: ratecodesrules.php, line: 237
+# File: specials.php, line: 486
+msgid "Sort by Discount Value"
+msgstr ""
+#
+# File: ratecodesrules.php, line: 238
+# File: specials.php, line: 481
+msgid "Sort by Minimum Stay"
+msgstr ""
+#
+# File: ratecodesrules.php, line: 239
+# File: specials.php, line: 489
+msgid "Sort by Leadtime"
+msgstr ""
+#
+# File: ratecodesrules.php, line: 240
+# File: specials.php, line: 490
+msgid "Sort by Days Close Arrival"
+msgstr ""
+#
+# File: ratecodesrules.php, line: 242
+# File: ratecodesrules.php, line: 255
+# File: specials.php, line: 492
+msgid "Are you sure you want to delete the selected rate code rule?"
+msgstr ""
+#
+# File: ratecodesrules.php, line: 245
+# File: specials.php, line: 496
+msgid "Markup Percentage"
+msgstr ""
+#
+# File: ratecodesrules.php, line: 246
+# File: specials.php, line: 498
+msgid "Markup Value"
+msgstr ""
+#
+# File: ratecodesrules.php, line: 247
+# File: specials.php, line: 499
+msgid "Discount Percentage"
+msgstr ""
+#
+# File: ratecodesrules.php, line: 248
+# File: specials.php, line: 502
+msgid "Discount Value"
+msgstr ""
+#
+# File: ratecodesrules.php, line: 249
+# File: specials.php, line: 506
+msgid "Min. Stay"
+msgstr ""
+#
+# File: ratecodesrules.php, line: 250
+msgid "Leadtime"
+msgstr ""
+#
+# File: ratecodesrules.php, line: 251
+# File: specials.php, line: 509
+msgid "Days Cl. Arr."
+msgstr ""
+#
+# File: ratecodesrules.php, line: 252
+# File: specials.php, line: 507
+msgid "Rate Code Rules Maintenance"
+msgstr ""
+#
+# File: reservationsettings.php, line: 205
+msgid "Markup:"
+msgstr ""
+#
+# File: reservationsettings.php, line: 206
+# File: reservationsettings.php, line: 209
+msgid "Discount:"
+msgstr ""
+#
+# File: reservationsettings.php, line: 214
+# File: reservationsettings.php, line: 221
+# File: view_requests.php, line: 1790
+# File: viewgroupreservations-detailed.php, line: 3704
+# File: viewgroupreservations.php, line: 3484
+# File: viewreservations.php, line: 3228
+msgid "Deposit:"
+msgstr ""
+#
+# File: reservationsettings.php, line: 217
+msgid "Reservation Type:"
+msgstr ""
+#
+# File: reservationsettings.php, line: 218
+msgid "Reservation Terms:"
+msgstr ""
+#
+# File: reservationsettings.php, line: 219
+msgid "Inventory Status Alert:"
+msgstr ""
+#
+# File: reservationsettings.php, line: 220
+msgid "Theme:"
+msgstr ""
+#
+# File: reservationsettings.php, line: 222
+msgid "Commission:"
+msgstr ""
+#
+# File: reservationsettings.php, line: 253
+msgid "Real Time Reservation"
+msgstr ""
+#
+# File: reservationsettings.php, line: 255
+msgid "Non Real Time Reservation"
+msgstr ""
+#
+# File: reservationsettings.php, line: 259
+msgid "Real Time Reservations is a type of reservation with immediate accomodation confirmation. Non Real Time Reservations is a type of reservation that will not be confirmed by the reservation system and will require manual confirmation."
+msgstr ""
+#
+# File: reservationsettings.php, line: 261
+msgid "Price per room"
+msgstr ""
+#
+# File: reservationsettings.php, line: 263
+msgid "Price per person"
+msgstr ""
+#
+# File: reservationsettings.php, line: 267
+msgid "If Reservation Terms is set to Price per room, then the guest will be charged with the first price set under the inventory maintenance. For example on a double room the price will be the same wether if it's for 1 guest or 2 guests. If Reservation Terms is set to Price per person, then the reservation system will calculate the total reservation based on the number of guests."
+msgstr ""
+#
+# File: reservationsettings.php, line: 268
+msgid "When allotment is under this value, the system will send an intentory status alert to hotel owner. Leave blank to disable this feature."
+msgstr ""
+#
+# File: reservationsettings.php, line: 269
+msgid "Rate Type:"
+msgstr ""
+#
+# File: reservationsettings.php, line: 270
+msgid "Commission Based"
+msgstr ""
+#
+# File: reservationsettings.php, line: 271
+msgid "Markup Based"
+msgstr ""
+#
+# File: reservationsettings.php, line: 272
+msgid "Markup Formula Type:"
+msgstr ""
+#
+# File: reservationsettings.php, line: 273
+msgid "Markup Percent. The percentage of your wholesale/net cost that the room's price is increased by to determine the selling price for your customers. For example, if you have a 50% markup on a single room with a wholesale cost of $10, your selling price would be $15.00"
+msgstr ""
+#
+# File: reservationsettings.php, line: 274
+msgid "Gross Margin Percent. This percentage is the gross profit for your room. For example, if you have a single room that has a wholesale/net cost of $10 and a selling price of $15, your gross margin is 33.33%."
+msgstr ""
+#
+# File: reservationsettings.php, line: 295
+msgid "When rate type, commission percentage, discount percentage or markup percentage is changed. All previous inserted prices for this property will be updated and calculated according to new values, both selling prices and net prices will be updated. Existing reservations will not be affected."
+msgstr ""
+#
+# File: specials.php, line: 249
+msgid "Rack Rate"
+msgstr ""
+#
+# File: specials.php, line: 280
+msgid "Sort by Rate Code ID"
+msgstr ""
+#
+# File: specials.php, line: 281
+msgid "Sort by 1 Person Price"
+msgstr ""
+#
+# File: specials.php, line: 282
+msgid "Sort by Allotment"
+msgstr ""
+#
+# File: specials.php, line: 284
+msgid "Are you sure you want to delete the selected info?"
+msgstr ""
+#
+# File: specials.php, line: 287
+# File: specials.php, line: 310
+msgid "Add New Special"
+msgstr ""
+#
+# File: specials.php, line: 290
+msgid "1 Person Price"
+msgstr ""
+#
+# File: specials.php, line: 292
+msgid "Specials Maintenance"
+msgstr ""
+#
+# File: specials.php, line: 442
+# File: viewprintinvoices.php, line: 203
+# File: viewprintinvoices.php, line: 213
+msgid "Yes"
+msgstr ""
+#
+# File: specials.php, line: 444
+# File: viewprintinvoices.php, line: 206
+# File: viewprintinvoices.php, line: 216
+msgid "No"
+msgstr ""
+#
+# File: specials.php, line: 478
+msgid "Add New Rate Code Rule"
+msgstr ""
+#
+# File: specials.php, line: 487
+msgid "Sort by Date From"
+msgstr ""
+#
+# File: specials.php, line: 488
+msgid "Sort by Date To"
+msgstr ""
+#
+# File: specials.php, line: 495
+msgid "Markup %"
+msgstr ""
+#
+# File: specials.php, line: 497
+msgid "Markup"
+msgstr ""
+#
+# File: specials.php, line: 500
+msgid "Discount %"
+msgstr ""
+#
+# File: specials.php, line: 501
+# File: viewgroupreservations-detailed.php, line: 2762
+# File: viewgroupreservations.php, line: 3523
+msgid "Discount"
+msgstr ""
+#
+# File: specials.php, line: 508
+msgid "Lead Time"
+msgstr ""
+#
+# File: specials.php, line: 529
+msgid "Non Refundable"
+msgstr ""
+#
+# File: specials.php, line: 533
+msgid "Expand Specials and Reserved Rates"
+msgstr ""
+#
+# File: statistics.php, line: 184
+msgid "Accurate real-time hotel statistics with detailed booking information and analysis"
+msgstr ""
+#
+# File: statistics.php, line: 186
+msgid "Here under you can find the quantity of reservations based on reservation date"
+msgstr ""
+#
+# File: statistics.php, line: 188
+msgid "(&euro;)"
+msgstr ""
+#
+# File: statistics.php, line: 190
+msgid "in month made based on arrival date"
+msgstr ""
+#
+# File: view_invoice.php, line: 68
+# File: viewprintinvoices.php, line: 90
+msgid "Invoice Nr."
+msgstr ""
+#
+# File: view_invoice.php, line: 69
+# File: viewprintinvoices.php, line: 92
+# File: viewprintinvoices.php, line: 99
+msgid "Print"
+msgstr ""
+#
+# File: view_invoice.php, line: 70
+# File: viewprintinvoices.php, line: 93
+msgid "Amount"
+msgstr ""
+#
+# File: view_invoice.php, line: 71
+# File: viewprintinvoices.php, line: 94
+msgid "Period"
+msgstr ""
+#
+# File: view_invoice.php, line: 72
+# File: viewprintinvoices.php, line: 95
+msgid "Invoice Date"
+msgstr ""
+#
+# File: view_invoice.php, line: 73
+# File: viewprintinvoices.php, line: 96
+msgid "Paid Amount"
+msgstr ""
+#
+# File: view_invoice.php, line: 74
+msgid "Paid?"
+msgstr ""
+#
+# File: view_invoice.php, line: 76
+msgid "Back to Invoice List"
+msgstr ""
+#
+# File: view_invoice.php, line: 77
+msgid "Invoice Details"
+msgstr ""
+#
+# File: view_invoice.php, line: 78
+msgid "Full Amount Paid"
+msgstr ""
+#
+# File: view_requests.php, line: 1136
+# File: view_requests.php, line: 1220
+# File: viewgroupreservations-detailed.php, line: 2789
+# File: viewgroupreservations-detailed.php, line: 2885
+# File: viewgroupreservations.php, line: 2540
+# File: viewgroupreservations.php, line: 2630
+# File: viewreservations.php, line: 2365
+# File: viewreservations.php, line: 2456
+msgid "Direct Reservation"
+msgstr ""
+#
+# File: view_requests.php, line: 1152
+# File: viewgroupreservations-detailed.php, line: 2812
+# File: viewgroupreservations.php, line: 2563
+# File: viewreservations.php, line: 2388
+msgid "HRS"
+msgstr ""
+#
+# File: view_requests.php, line: 1156
+# File: viewgroupreservations-detailed.php, line: 2815
+# File: viewgroupreservations.php, line: 2566
+# File: viewreservations.php, line: 2392
+msgid "Hotelbeds"
+msgstr ""
+#
+# File: view_requests.php, line: 1159
+# File: viewgroupreservations-detailed.php, line: 2818
+# File: viewgroupreservations.php, line: 2569
+# File: viewreservations.php, line: 2395
+msgid "Central Reservations"
+msgstr ""
+#
+# File: view_requests.php, line: 1162
+# File: viewgroupreservations-detailed.php, line: 2821
+# File: viewgroupreservations.php, line: 2572
+# File: viewreservations.php, line: 2398
+msgid "Uni Travel"
+msgstr ""
+#
+# File: view_requests.php, line: 1165
+# File: viewgroupreservations-detailed.php, line: 2824
+# File: viewgroupreservations.php, line: 2575
+# File: viewreservations.php, line: 2401
+msgid "Rates To Go"
+msgstr ""
+#
+# File: view_requests.php, line: 1168
+# File: viewgroupreservations-detailed.php, line: 2827
+# File: viewgroupreservations.php, line: 2578
+# File: viewreservations.php, line: 2404
+msgid "Agoda"
+msgstr ""
+#
+# File: view_requests.php, line: 1171
+# File: viewgroupreservations-detailed.php, line: 2830
+# File: viewgroupreservations.php, line: 2581
+# File: viewreservations.php, line: 2407
+msgid "toBook"
+msgstr ""
+#
+# File: view_requests.php, line: 1174
+# File: viewgroupreservations-detailed.php, line: 2833
+# File: viewgroupreservations.php, line: 2584
+# File: viewreservations.php, line: 2410
+msgid "hotel.de/hotel.info"
+msgstr ""
+#
+# File: view_requests.php, line: 1177
+# File: viewgroupreservations-detailed.php, line: 2836
+# File: viewgroupreservations.php, line: 2587
+# File: viewreservations.php, line: 2413
+msgid "Easy to Book"
+msgstr ""
+#
+# File: view_requests.php, line: 1180
+# File: viewgroupreservations-detailed.php, line: 2839
+# File: viewgroupreservations.php, line: 2590
+# File: viewreservations.php, line: 2416
+msgid "Hotels4U/MedHotels (Thomas Cook Group)"
+msgstr ""
+#
+# File: view_requests.php, line: 1183
+# File: viewgroupreservations-detailed.php, line: 2842
+# File: viewgroupreservations.php, line: 2593
+# File: viewreservations.php, line: 2419
+msgid "Hostels Chart"
+msgstr ""
+#
+# File: view_requests.php, line: 1186
+# File: viewgroupreservations-detailed.php, line: 2845
+# File: viewgroupreservations.php, line: 2596
+# File: viewreservations.php, line: 2422
+msgid "Hostels Club"
+msgstr ""
+#
+# File: view_requests.php, line: 1189
+# File: viewgroupreservations-detailed.php, line: 2848
+# File: viewgroupreservations.php, line: 2599
+# File: viewreservations.php, line: 2425
+msgid "Venere"
+msgstr ""
+#
+# File: view_requests.php, line: 1192
+# File: viewgroupreservations-detailed.php, line: 2851
+# File: viewgroupreservations.php, line: 2602
+# File: viewreservations.php, line: 2428
+msgid "GDS/ADS/IDS"
+msgstr ""
+#
+# File: view_requests.php, line: 1195
+# File: viewgroupreservations-detailed.php, line: 2854
+# File: viewgroupreservations.php, line: 2605
+# File: viewreservations.php, line: 2431
+msgid "Expedia.com"
+msgstr ""
+#
+# File: view_requests.php, line: 1198
+# File: viewgroupreservations-detailed.php, line: 2857
+# File: viewgroupreservations.php, line: 2608
+# File: viewreservations.php, line: 2434
+msgid "Booking.com"
+msgstr ""
+#
+# File: view_requests.php, line: 1258
+# File: viewgroupreservations-detailed.php, line: 2923
+# File: viewgroupreservations.php, line: 2668
+# File: viewreservations.php, line: 2494
+msgid "- No department set -"
+msgstr ""
+#
+# File: view_requests.php, line: 1271
+# File: viewgroupreservations-detailed.php, line: 3380
+# File: viewgroupreservations.php, line: 3125
+# File: viewreservations.php, line: 2915
+msgid "Customer Memo"
+msgstr ""
+#
+# File: view_requests.php, line: 1272
+# File: viewgroupreservations-detailed.php, line: 3381
+# File: viewgroupreservations.php, line: 3126
+# File: viewreservations.php, line: 2916
+msgid "Internal Memo"
+msgstr ""
+#
+# File: view_requests.php, line: 1281
+msgid "Send Reminder"
+msgstr ""
+#
+# File: view_requests.php, line: 1282
+msgid "Approve"
+msgstr ""
+#
+# File: view_requests.php, line: 1283
+msgid "Decline"
+msgstr ""
+#
+# File: view_requests.php, line: 1302
+msgid "Reservation Request Total"
+msgstr ""
+#
+# File: view_requests.php, line: 1303
+msgid "View Request"
+msgstr ""
+#
+# File: view_requests.php, line: 1305
+msgid "Request Information"
+msgstr ""
+#
+# File: view_requests.php, line: 1306
+msgid "Request #"
+msgstr ""
+#
+# File: view_requests.php, line: 1312
+msgid "Reservation Request Status"
+msgstr ""
+#
+# File: view_requests.php, line: 1313
+# File: view_requests.php, line: 1829
+msgid "Send Request"
+msgstr ""
+#
+# File: view_requests.php, line: 1337
+msgid "Print Request"
+msgstr ""
+#
+# File: view_requests.php, line: 1352
+# File: viewgroupreservations-detailed.php, line: 3077
+# File: viewgroupreservations.php, line: 2824
+# File: viewreservations.php, line: 2612
+msgid "Agent"
+msgstr ""
+#
+# File: view_requests.php, line: 1353
+# File: viewgroupreservations-detailed.php, line: 3078
+# File: viewgroupreservations.php, line: 2825
+# File: viewreservations.php, line: 2613
+msgid "Affiliate"
+msgstr ""
+#
+# File: view_requests.php, line: 1354
+# File: viewgroupreservations-detailed.php, line: 3079
+# File: viewgroupreservations.php, line: 2826
+# File: viewreservations.php, line: 2614
+msgid "Departments"
+msgstr ""
+#
+# File: view_requests.php, line: 1355
+# File: viewgroupreservations-detailed.php, line: 3708
+# File: viewgroupreservations.php, line: 3488
+# File: viewreservations.php, line: 3232
+msgid "Print Invoice"
+msgstr ""
+#
+# File: view_requests.php, line: 1457
+# File: viewgroupreservations-detailed.php, line: 3173
+# File: viewgroupreservations.php, line: 2920
+# File: viewreservations.php, line: 2708
+msgid "Visa"
+msgstr ""
+#
+# File: view_requests.php, line: 1460
+# File: viewgroupreservations-detailed.php, line: 3176
+# File: viewgroupreservations.php, line: 2923
+# File: viewreservations.php, line: 2711
+msgid "Mastercard"
+msgstr ""
+#
+# File: view_requests.php, line: 1463
+# File: viewgroupreservations-detailed.php, line: 3179
+# File: viewgroupreservations.php, line: 2926
+# File: viewreservations.php, line: 2714
+msgid "American Express"
+msgstr ""
+#
+# File: view_requests.php, line: 1466
+# File: viewgroupreservations-detailed.php, line: 3182
+# File: viewgroupreservations.php, line: 2929
+# File: viewreservations.php, line: 2717
+msgid "Discover"
+msgstr ""
+#
+# File: view_requests.php, line: 1469
+# File: viewgroupreservations-detailed.php, line: 3185
+# File: viewgroupreservations.php, line: 2932
+# File: viewreservations.php, line: 2720
+msgid "Diners"
+msgstr ""
+#
+# File: view_requests.php, line: 1473
+# File: viewgroupreservations-detailed.php, line: 3189
+# File: viewgroupreservations-detailed.php, line: 3249
+# File: viewgroupreservations.php, line: 2936
+# File: viewgroupreservations.php, line: 2994
+# File: viewreservations.php, line: 2724
+# File: viewreservations.php, line: 2784
+msgid "Credit Card Type"
+msgstr ""
+#
+# File: view_requests.php, line: 1487
+# File: viewgroupreservations-detailed.php, line: 2732
+# File: viewgroupreservations.php, line: 2484
+# File: viewreservations.php, line: 2309
+msgid "Net Price:"
+msgstr ""
+#
+# File: view_requests.php, line: 1791
+# File: viewgroupreservations-detailed.php, line: 3705
+# File: viewgroupreservations.php, line: 3485
+# File: viewreservations.php, line: 3229
+msgid "Paid:"
+msgstr ""
+#
+# File: view_requests.php, line: 1792
+# File: viewgroupreservations-detailed.php, line: 3706
+# File: viewgroupreservations.php, line: 3486
+# File: viewreservations.php, line: 3230
+msgid "Pending:"
+msgstr ""
+#
+# File: view_requests.php, line: 1793
+# File: viewgroupreservations-detailed.php, line: 3707
+# File: viewgroupreservations.php, line: 3487
+# File: viewreservations.php, line: 3231
+msgid "Lodging"
+msgstr ""
+#
+# File: view_requests.php, line: 1794
+# File: viewgroupreservations-detailed.php, line: 2777
+# File: viewgroupreservations.php, line: 2528
+# File: viewreservations.php, line: 2353
+msgid "Do not notify customer by email when reservation is updated"
+msgstr ""
+#
+# File: view_requests.php, line: 1828
+# File: viewgroupreservations-detailed.php, line: 3764
+# File: viewgroupreservations.php, line: 3534
+# File: viewreservations.php, line: 3262
+msgid "Send Voucher"
+msgstr ""
+#
+# File: viewbookings.php, line: 500
+# File: viewbookings.php, line: 509
+# File: viewrequests.php, line: 497
+# File: viewrequests.php, line: 506
+msgid "Not Assigned"
+msgstr ""
+#
+# File: viewbookings.php, line: 550
+# File: viewrequests.php, line: 547
+msgid "Show All"
+msgstr ""
+#
+# File: viewbookings.php, line: 606
+# File: viewrequests.php, line: 600
+msgid "Room #"
+msgstr ""
+#
+# File: viewbookings.php, line: 615
+# File: viewbookings.php, line: 653
+# File: viewrequests.php, line: 646
+msgid "Reservation Number:"
+msgstr ""
+#
+# File: viewbookings.php, line: 616
+# File: viewrequests.php, line: 609
+msgid "Start Search"
+msgstr ""
+#
+# File: viewbookings.php, line: 619
+# File: viewrequests.php, line: 612
+msgid "Sort Bookings:"
+msgstr ""
+#
+# File: viewbookings.php, line: 620
+# File: viewrequests.php, line: 613
+msgid "Date of Check-out:"
+msgstr ""
+#
+# File: viewbookings.php, line: 621
+# File: viewrequests.php, line: 614
+msgid "Sort by:"
+msgstr ""
+#
+# File: viewbookings.php, line: 623
+# File: viewrequests.php, line: 616
+msgid "Customer Name:"
+msgstr ""
+#
+# File: viewbookings.php, line: 624
+# File: viewrequests.php, line: 617
+msgid "Custumer's e-mail address:"
+msgstr ""
+#
+# File: viewbookings.php, line: 625
+# File: viewrequests.php, line: 618
+msgid "Date of Booking:"
+msgstr ""
+#
+# File: viewbookings.php, line: 626
+# File: viewrequests.php, line: 619
+msgid "All Dates"
+msgstr ""
+#
+# File: viewbookings.php, line: 627
+# File: viewrequests.php, line: 620
+msgid "Date of Stay:"
+msgstr ""
+#
+# File: viewbookings.php, line: 628
+# File: viewrequests.php, line: 621
+msgid "Arrival Date:"
+msgstr ""
+#
+# File: viewbookings.php, line: 630
+# File: viewrequests.php, line: 623
+msgid "and"
+msgstr ""
+#
+# File: viewbookings.php, line: 632
+msgid "Search Reservations"
+msgstr ""
+#
+# File: viewbookings.php, line: 633
+# File: viewrequests.php, line: 626
+msgid "Search for:"
+msgstr ""
+#
+# File: viewbookings.php, line: 634
+msgid "Search for reservations"
+msgstr ""
+#
+# File: viewbookings.php, line: 635
+# File: viewrequests.php, line: 628
+msgid "First name"
+msgstr ""
+#
+# File: viewbookings.php, line: 636
+# File: viewrequests.php, line: 629
+msgid "Last name"
+msgstr ""
+#
+# File: viewbookings.php, line: 637
+# File: viewrequests.php, line: 630
+msgid "E-mail"
+msgstr ""
+#
+# File: viewbookings.php, line: 638
+# File: viewrequests.php, line: 631
+msgid "Company"
+msgstr ""
+#
+# File: viewbookings.php, line: 641
+msgid "Are you sure you want to delete the selected reservations?"
+msgstr ""
+#
+# File: viewbookings.php, line: 644
+msgid "Search Reservations Results"
+msgstr ""
+#
+# File: viewbookings.php, line: 646
+# File: viewrequests.php, line: 639
+msgid "Res. Date"
+msgstr ""
+#
+# File: viewbookings.php, line: 649
+# File: viewrequests.php, line: 642
+msgid "# Rooms"
+msgstr ""
+#
+# File: viewbookings.php, line: 650
+# File: viewrequests.php, line: 643
+msgid "# Adults"
+msgstr ""
+#
+# File: viewbookings.php, line: 651
+# File: viewrequests.php, line: 644
+msgid "# Children"
+msgstr ""
+#
+# File: viewbookings.php, line: 652
+# File: viewrequests.php, line: 645
+msgid "Room Type"
+msgstr ""
+#
+# File: viewbookings.php, line: 658
+# File: viewrequests.php, line: 651
+msgid "Payment Status:"
+msgstr ""
+#
+# File: viewbookings.php, line: 659
+# File: viewrequests.php, line: 652
+msgid "Booked Between:"
+msgstr ""
+#
+# File: viewbookings.php, line: 660
+# File: viewrequests.php, line: 653
+msgid "Arrival Between:"
+msgstr ""
+#
+# File: viewbookings.php, line: 673
+# File: viewprintinvoices.php, line: 111
+# File: viewrequests.php, line: 666
+msgid "Delete reservation?"
+msgstr ""
+#
+# File: viewbookings.php, line: 674
+# File: viewprintinvoices.php, line: 112
+# File: viewrequests.php, line: 667
+msgid "This reservation will be permanently deleted and cannot be recovered. Are you sure?"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 215
+# File: viewgroupreservations.php, line: 1638
+msgid "Credit card processing engine is not available."
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 216
+# File: viewgroupreservations.php, line: 1639
+msgid "Credit card has not been changed because credit card processing engine is not available."
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 220
+# File: viewgroupreservations.php, line: 1643
+msgid "Unable to process credit card."
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 221
+# File: viewgroupreservations-detailed.php, line: 226
+# File: viewgroupreservations.php, line: 1644
+# File: viewgroupreservations.php, line: 1649
+msgid "Nothing has been charged on the card. This is probably because there is no credit card gateway available."
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 225
+# File: viewgroupreservations.php, line: 1648
+msgid "Nothing has been charged on the card."
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 230
+# File: viewgroupreservations.php, line: 1653
+msgid "Unable to update reservation."
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 1603
+# File: viewgroupreservations.php, line: 1213
+msgid "There is no availability for"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 2297
+msgid "Credit Card Fees"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 2298
+msgid "Discount Fees"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 2702
+# File: viewgroupreservations.php, line: 2445
+msgid "Please make sure you click the Update Selected button for the changes to take effect."
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 2703
+# File: viewgroupreservations.php, line: 2446
+msgid "Payment is not required for this reservation"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 2705
+# File: viewreservations.php, line: 2286
+msgid "Guest Information"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 2764
+# File: viewgroupreservations.php, line: 2515
+# File: viewreservations.php, line: 2340
+msgid "Reservation Pending"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 2765
+# File: viewgroupreservations.php, line: 2516
+# File: viewreservations.php, line: 2341
+msgid "Reservation Confirmed"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 2766
+# File: viewgroupreservations.php, line: 2517
+# File: viewreservations.php, line: 2342
+msgid "Reservation Cancelled"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 2767
+# File: viewgroupreservations.php, line: 2518
+# File: viewreservations.php, line: 2343
+msgid "Reservation Waiting Confirmation"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 2768
+# File: viewgroupreservations.php, line: 2519
+# File: viewreservations.php, line: 2344
+msgid "Checked In"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 2769
+# File: viewgroupreservations.php, line: 2520
+# File: viewreservations.php, line: 2345
+msgid "Checked Out"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 2770
+# File: viewgroupreservations.php, line: 2521
+# File: viewreservations.php, line: 2346
+msgid "Complete"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 2772
+msgid "Payment Received"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 2773
+# File: viewgroupreservations.php, line: 2524
+# File: viewreservations.php, line: 2349
+msgid "Payment Refunded"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 2774
+# File: viewgroupreservations.php, line: 2525
+# File: viewreservations.php, line: 2350
+msgid "Chargeback"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 2775
+# File: viewgroupreservations.php, line: 2526
+# File: viewreservations.php, line: 2351
+msgid "Payment On Hold"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 2776
+# File: viewgroupreservations.php, line: 2527
+# File: viewreservations.php, line: 2352
+msgid "Partially Paid"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 2860
+msgid "Facebook"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 2863
+msgid "Mobile"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 2940
+# File: viewgroupreservations.php, line: 2685
+# File: viewreservations.php, line: 2513
+msgid "No Unit/Room Assigned"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3027
+# File: viewgroupreservations.php, line: 2775
+# File: viewreservations.php, line: 2566
+msgid "Check In"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3028
+# File: viewgroupreservations.php, line: 2776
+# File: viewreservations.php, line: 2567
+msgid "Check Out"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3061
+msgid "Print Reservation (PDF)"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3062
+# File: viewgroupreservations.php, line: 2809
+# File: viewreservations.php, line: 2597
+msgid "Make Payment"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3080
+# File: viewgroupreservations.php, line: 2827
+# File: viewreservations.php, line: 2615
+msgid "Assign Unit/Room:"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3709
+msgid "Print Invoice (PDF)"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3711
+# File: viewgroupreservations.php, line: 3490
+# File: viewreservations.php, line: 3234
+msgid "Add new extra service"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3712
+# File: viewgroupreservations.php, line: 3578
+msgid "Add New Guest Name"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3713
+# File: viewgroupreservations.php, line: 3579
+msgid "Edit Guest Name"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3714
+msgid "Add New Unit"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3715
+# File: viewgroupreservations.php, line: 3491
+# File: viewreservations.php, line: 3235
+msgid "Room/Unit Number:"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3716
+# File: viewgroupreservations.php, line: 3492
+# File: viewreservations.php, line: 3236
+msgid "Assigned Room/Unit Number:"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3717
+# File: viewgroupreservations.php, line: 3493
+msgid "Assigned Unit Number"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3718
+# File: viewgroupreservations.php, line: 3529
+msgid "Assigned"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3720
+# File: viewgroupreservations.php, line: 2009
+msgid "Payment is not required"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3721
+# File: viewgroupreservations.php, line: 2010
+msgid "Holding fee has been paid"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3722
+# File: viewgroupreservations.php, line: 2011
+msgid "Holding fee"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3723
+# File: viewgroupreservations.php, line: 2012
+msgid "Event fee has been paid"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3724
+# File: viewgroupreservations.php, line: 2013
+msgid "Event fee"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3725
+# File: viewgroupreservations-detailed.php, line: 3774
+# File: viewgroupreservations.php, line: 2014
+# File: viewgroupreservations.php, line: 3581
+msgid "Before updating the reservation dates. Please make sure there is availability for the new dates. Overbooking will occur if there is no availability."
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3726
+# File: viewgroupreservations-detailed.php, line: 3775
+# File: viewgroupreservations.php, line: 2015
+# File: viewgroupreservations.php, line: 3582
+msgid "Before updating the reservation unit type please make sure there is availability for the new unit. Overbooking will occur if there are no units available for the new assigned unit."
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3727
+# File: viewgroupreservations-detailed.php, line: 3776
+# File: viewgroupreservations.php, line: 2016
+# File: viewgroupreservations.php, line: 3583
+msgid "Before updating the reservation quantity please make sure there is enought availability. Overbooking will occur if there is no availability."
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3739
+# File: viewgroupreservations.php, line: 3495
+msgid "The score calculated to estimate the riskiness of accepting a credit card ranges from 0 (low risk) to 10 (high risk) and is calculated as follows:"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3740
+# File: viewgroupreservations.php, line: 3496
+msgid "score = 2.5 * if e-mail is from free e-mail provider (free e-mail = higher risk)"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3741
+# File: viewgroupreservations.php, line: 3497
+msgid "score = 2.5 * if country of IP address matches billing address country (mismatch = higher risk)"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3742
+# File: viewgroupreservations.php, line: 3498
+msgid "score = 5 * if IP address is Anonymous Proxy (anonymous proxy = very high risk)"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3743
+# File: viewgroupreservations.php, line: 3499
+msgid "score = 5 * if IP address or billing address country is in Ghana, Nigeria, or Vietnam."
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3744
+# File: viewgroupreservations.php, line: 3500
+msgid "score = 10 * if Distance from IP address to Billing Location in kilometers (large distance = higher risk)"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3745
+# File: viewgroupreservations.php, line: 3501
+msgid "score = 2 * if country of issuing bank based on BIN number matches billing address country"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3746
+# File: viewgroupreservations.php, line: 3502
+msgid "score = 1 * if name of issuing bank matches inputted binName. A return value of Yes provides a positive indication that cardholder is in possession of credit card"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3747
+# File: viewgroupreservations.php, line: 3503
+msgid "score = 5 * if e-mail is in database of high risk e-mails"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3748
+# File: viewgroupreservations.php, line: 3504
+msgid "score = 5 * if username input is in database of high risk usernames"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3749
+# File: viewgroupreservations.php, line: 3505
+msgid "score = 5 * if password input is in database of high risk passwords"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3750
+# File: viewgroupreservations.php, line: 3506
+msgid "score = 5 * if address is in database of known mail drops"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3751
+# File: viewgroupreservations.php, line: 3507
+msgid "score = 2.5 * if Likelihood of IP Address being an Open Proxy"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3752
+# File: viewgroupreservations.php, line: 3508
+msgid "Note this formula is capped at 10"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3760
+# File: viewgroupreservations.php, line: 3530
+# File: viewreservations.php, line: 3258
+msgid "Viator"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3772
+# File: viewgroupreservations-detailed.php, line: 3812
+# File: viewgroupreservations.php, line: 3584
+msgid "Information"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3773
+# File: viewgroupreservations.php, line: 3576
+msgid "Important"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3779
+# File: viewgroupreservations.php, line: 2748
+msgid "Are you sure you want to delete selected guest"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3784
+# File: viewgroupreservations.php, line: 3577
+msgid "OK"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3785
+# File: viewgroupreservations.php, line: 3548
+# File: viewreservations.php, line: 3274
+msgid "Net Price"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3786
+# File: viewgroupreservations.php, line: 3549
+# File: viewreservations.php, line: 3275
+msgid "Net Total"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3787
+# File: viewgroupreservations.php, line: 3550
+# File: viewreservations.php, line: 3276
+msgid "Delete selected extra services"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3790
+# File: viewgroupreservations.php, line: 3553
+# File: viewreservations.php, line: 3279
+msgid "Reservation Details"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3792
+# File: viewgroupreservations.php, line: 3555
+# File: viewreservations.php, line: 3281
+msgid "Not Cancelled/No reason"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3807
+# File: viewgroupreservations.php, line: 3570
+# File: viewreservations.php, line: 3296
+msgid "Cancellation reason"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3809
+# File: viewgroupreservations.php, line: 3572
+# File: viewreservations.php, line: 3298
+msgid "Cancellation #"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3810
+# File: viewgroupreservations.php, line: 3573
+# File: viewreservations.php, line: 3299
+msgid "Group Reservation #"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3811
+msgid "Group Reservation - Detailed"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3813
+# File: viewgroupreservations.php, line: 3585
+msgid "This is an internal booking made manually via Property Management System"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3989
+# File: viewgroupreservations.php, line: 3763
+msgid "Are you sure you want to cancel this reservation?"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3991
+msgid "Supplier Confirmation"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3993
+msgid "Supplier Confirmation #"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3994
+msgid "Invoice Number"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3995
+msgid "Invoice Number #"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3996
+msgid "Make Discount"
+msgstr ""
+#
+# File: viewgroupreservations-detailed.php, line: 3998
+msgid "Agent Reference"
+msgstr ""
+#
+# File: viewgroupreservations.php, line: 2448
+msgid "No guests available"
+msgstr ""
+#
+# File: viewgroupreservations.php, line: 2449
+msgid "Guests are available"
+msgstr ""
+#
+# File: viewgroupreservations.php, line: 2450
+msgid "Room assigned"
+msgstr ""
+#
+# File: viewgroupreservations.php, line: 2451
+msgid "Room not assigned"
+msgstr ""
+#
+# File: viewgroupreservations.php, line: 2452
+msgid "Guests:"
+msgstr ""
+#
+# File: viewgroupreservations.php, line: 2523
+# File: viewreservations.php, line: 2348
+msgid "Payment Recieved"
+msgstr ""
+#
+# File: viewgroupreservations.php, line: 2750
+msgid "Delete Reservation"
+msgstr ""
+#
+# File: viewgroupreservations.php, line: 2757
+msgid "Unit Price"
+msgstr ""
+#
+# File: viewgroupreservations.php, line: 3483
+msgid "Unit #"
+msgstr ""
+#
+# File: viewgroupreservations.php, line: 3542
+msgid "Edit Reservation"
+msgstr ""
+#
+# File: viewgroupreservations.php, line: 3574
+# File: viewreservations.php, line: 3300
+msgid "Group Reservation"
+msgstr ""
+#
+# File: viewgroupreservations.php, line: 3580
+msgid "Send Voucher to"
+msgstr ""
+#
+# File: viewprintinvoices.php, line: 91
+msgid "Reservation Nr."
+msgstr ""
+#
+# File: viewprintinvoices.php, line: 100
+msgid "Previous"
+msgstr ""
+#
+# File: viewprintinvoices.php, line: 102
+msgid "overdue"
+msgstr ""
+#
+# File: viewprintinvoices.php, line: 103
+msgid "Payment"
+msgstr ""
+#
+# File: viewprintinvoices.php, line: 104
+msgid "day(s)"
+msgstr ""
+#
+# File: viewprintinvoices.php, line: 105
+msgid "Managment"
+msgstr ""
+#
+# File: viewrequests.php, line: 605
+msgid "View Requests"
+msgstr ""
+#
+# File: viewrequests.php, line: 607
+# File: viewrequests.php, line: 638
+msgid "requests"
+msgstr ""
+#
+# File: viewrequests.php, line: 608
+msgid "Request Number:"
+msgstr ""
+#
+# File: viewrequests.php, line: 625
+msgid "Search requests"
+msgstr ""
+#
+# File: viewrequests.php, line: 627
+msgid "Search for requests"
+msgstr ""
+#
+# File: viewrequests.php, line: 634
+msgid "Are you sure you want to delete the selected requests?"
+msgstr ""
+#
+# File: viewrequests.php, line: 637
+msgid "Search requests Results"
+msgstr ""
