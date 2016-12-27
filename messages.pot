@@ -1376,8 +1376,6 @@ msgid "Accurate real-time hotel statistics with detailed booking information and
 msgstr ""
 msgid "Here under you can find the quantity of reservations based on reservation date"
 msgstr ""
-msgid "(&euro;)"
-msgstr ""
 msgid "in month made based on arrival date"
 msgstr ""
 msgid "Invoice Nr."
